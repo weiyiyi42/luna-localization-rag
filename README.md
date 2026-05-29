@@ -2,7 +2,7 @@
 
 LUNA is a local evaluation framework for game localization research. It uses a LangGraph workflow, optional ChromaDB retrieval, BGE-M3 embeddings, DeepSeek structured scoring, and adaptive routing between a fast path and a deeper audit path.
 
-This export is the core research/engineering version. It does not include the questionnaire website, Vercel API, mock data, Steam depot files, local vector database files, or secrets.
+This export is the core research/engineering version. It does not include Steam depot files, local vector database files, or secrets.
 
 ## Repository Contents
 
@@ -12,16 +12,6 @@ This export is the core research/engineering version. It does not include the qu
 - `data/processed/luna_knowledge_base/`: processed evidence and terminology files used to build the local RAG knowledge base.
 - `data/processed/luna_runs/survey_eval/`: selected real evaluation outputs for the final vertical architecture.
 - `docs/`: architecture and data provenance notes.
-
-## Excluded
-
-- Steam depot downloads and game executables.
-- Raw/interim extraction folders.
-- Local ChromaDB files under `data/vector_db/`.
-- Questionnaire web application and API code.
-- Participant response database.
-- API keys and local environment files.
-- LaTeX build artifacts.
 
 ## Setup
 
