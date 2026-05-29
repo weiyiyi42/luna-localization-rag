@@ -1,0 +1,752 @@
+﻿item_id,category,source_type,group,key,member_keys,english,length_bucket,changed_across_versions,change_score,style_variance_score,localization_risk_score,player_visibility,sampling_priority_score,scheme_c_score,V1_label,V1_zh,V2_label,V2_zh,V3_label,V3_zh,ellipsis_count,has_ellipsis,key_prefix
+Titles_SILK_MAIN,achievement_map_title,Titles,Titles,SILK_MAIN,SILK_MAIN,Silk,micro,True,30.4,0.5,4.0,3.0,13.31,13.31,Initial official version,苍白之母,Public-beta official revision,丝影圣母,Patch 4 Team Cart Fix version,灵丝,0,False,SILK_MAIN
+Titles_ARCHITECT_MAIN,achievement_map_title,Titles,Titles,ARCHITECT_MAIN,ARCHITECT_MAIN,Architect,micro,True,30.625,0.667,0.0,3.0,12.833,12.833,Initial official version,第十二席建筑师,Public-beta official revision,建筑师教堂,Patch 4 Team Cart Fix version,建筑师,0,False,ARCHITECT_MAIN
+Titles_MASK_MAKER_MAIN,achievement_map_title,Titles,Titles,MASK_MAKER_MAIN,MASK_MAKER_MAIN,Mask Maker,micro,True,30.375,0.333,0.0,3.0,12.667,12.667,Initial official version,面甲匠,Public-beta official revision,面具匠,Patch 4 Team Cart Fix version,面具制作师,0,False,MASK_MAKER
+Titles_SPLINTER_QUEEN_MAIN,achievement_map_title,Titles,Titles,SPLINTER_QUEEN_MAIN,SPLINTER_QUEEN_MAIN,Splinter,micro,True,30.325,0.333,0.0,3.0,12.647,12.647,Initial official version,碎裂者修女,Public-beta official revision,棘刺修女,Patch 4 Team Cart Fix version,碎裂者长姊,0,False,SPLINTER_QUEEN
+Titles_FIRST_WEAVER_MAIN,achievement_map_title,Titles,Titles,FIRST_WEAVER_MAIN,FIRST_WEAVER_MAIN,Sinner,micro,True,30.275,0.333,0.0,3.0,12.627,12.627,Initial official version,原罪者,Public-beta official revision,初孽缚主,Patch 4 Team Cart Fix version,原初罪者,0,False,FIRST_WEAVER
+Wanderers_GARMOND_MEET,dialogue,Wanderers,Wanderers,GARMOND_MEET,GARMOND_MEET,"Guurroooo! Scoundrel! Fiend! Who dares wake brave Garmond from his well needed kip?
+I’ve no intent to disturb, sir bug. I am merely passing these towers and sought to better understand the lay of the place.
+Hmmph! Knowing the battlefield? A warrior’s reason! Just look at you! Your stance and blade, almost alone they declare a fight.
+As the bravest of knights, if direct challenge were offered, honour would see noble Garmond accept!
+Fortunate that seems not your intent. In truth, I’m still sleeping off something of an altercation myself. Had our meeting called for a knightly duel, you’d not have had the luck to behold my finest form.",long,True,45.3,7.0,7.0,6.0,21.47,21.47,Initial official version,"嘎噜！歹徒！谁敢打扰勇者加蒙德的美梦？
+无意冒犯，只是路过这座塔想探探路。
+哼！勘察战场？战士的借口！看你这架势就是来找架打的！
+作为最勇猛的骑士，要决斗我奉陪！
+算你走运，我还没睡醒。真要决斗你可打不过全盛期的我！",Public-beta official revision,"嘎噜噜！恶棍！魔鬼！谁竟敢打扰勇者加蒙德的美梦？
+无意冒犯，先生。我只是路过这些塔楼，想探探附近的情况。
+哼！这不就是勘察战场？倒像是战士会找的借口！看看你的模样！你的姿态还有手上的武器，分明就是想来挑起争斗。
+身为最勇猛的骑士，如果你想发起决斗，那高贵的加蒙德奉陪到底！
+不过你似乎无意争斗，算你走运。说实话，我不久前才经历了一场争执，还没缓过来呢。要是真打起来，你连我认真出手的样子都见不着！",Patch 4 Team Cart Fix version,"嘎噜！歹徒！恶鬼！是谁这么大胆，竟敢将勇猛的加蒙德从他急需的小憩中惊醒？
+我无意惊扰您，先生，我只是路过塔楼而已，以便更好地了解这里的布局。
+哼！打探敌情是吗？这是战士才会有的理由！看看你！你这站姿和武器的架势，单凭这些就足够当作宣战了。
+作为最勇猛的骑士，若有虫正面发起挑战，高尚的加蒙德将欣然接受！
+不过还好，你好像并没这个打算。实际上，我刚战斗过一场，还想睡一会儿来恢复。如果我们真的像骑士一样决斗的话，你恐怕就没法见证我最好的状态了。",0,False,GARMOND_MEET
+City_GOURMAND_SERVANT_MEET,dialogue,City,City,GOURMAND_SERVANT_MEET,GOURMAND_SERVANT_MEET,"What an awful clattering! Would you kindly conduct yourself a little more carefully?
+And why are you adorned in such an awful, livid red? By my oath, those above must make a sport of sending me the most wretched servants they can find!
+I am no servant, sir, rather a guest of sorts, invited by the Citadel. Tell me, is this vial of oil on display your own?
+Nothing here is my own, you impertinent young mite! This sacred hall, and all the food contained within, belong to my most exalted master.
+The Great Gourmand! The finest connoisseur who has ever lived, the one whose tastes transcend the ages!
+None are left now who venerate them as they deserve, save for the loyal, lonely bug who stands before you.
+That oil is merely a small savoury to whet their appetite for the grand meal to come. A spectacular, Pharloom spanning dish that I have been planning for an age.
+But alas, those above seem to have forsaken my poor master! And I have grown so old. Now I can never hope to gather the necessary ingredients. Blast their indolence!",long,True,44.9,6.833,5.0,6.0,20.977,20.977,Initial official version,"叮叮咣咣吵死了！能安静点吗？
+还有你为什么穿这身鲜红刺眼的装扮？上面那些混蛋专派些歪瓜裂枣来侍奉我！
+我可不是仆从，算是圣堡的客人。这瓶油是你的藏品？
+当然不是我的，你这没耐心的小虫！这里一切都属于我尊贵的主人——大胃王！
+那是空前绝后的美食家！品味超越时代的存在！
+如今只剩我忠心耿耿侍奉主人，其他虫早忘了本分。
+那点油不过是开胃小菜，我筹备的可是横跨纺络的盛宴！
+可恨上面那帮懒鬼断了供给，我这把老骨头哪凑得齐食材！",Public-beta official revision,"这叮叮当当的吵死了！能不能动作轻点儿？
+还有你这身扎眼的猩红色，看着就难受！我发誓，上面那些家伙，是故意派最差劲的仆从来气我！
+先生，我可不是什么仆从，算是圣堡邀请的客人。话说，这瓶展示用的油是你的吗？
+这里的东西都不属于我，没规矩的小东西！这座神圣殿堂和里面所有食物，都属于我至高无上的主人。
+伟大的美食家！有史以来最杰出的鉴赏家，品味超越时代！
+如今只剩我忠心耿耿侍奉主人，其他虫早忘了本分。
+那油不过是开胃小菜，为主人即将享用的盛宴做准备。我为法鲁姆筹划已久的令人惊叹的一场盛宴。
+可上面那些人好像抛弃了我可怜的主人！而我也老了。现在根本凑不齐食材。该死的懒鬼！",Patch 4 Team Cart Fix version,"叮叮咣咣吵死了！请你稍微注意一点行吗？
+还有你为什么穿着这红得扎眼的装扮？上面那些家伙肯定是把最不堪的仆从打发到这儿烦我来取乐了！
+我不是仆从，先生，我倒算是圣堡请来的客人。展柜里这瓶油是你的吗？
+当然不是我的，无礼的小东西！这宏伟的圣殿以及这里的一切美食都属于我至高无上的主人！
+那是位伟大的大胃王！有史以来最顶尖的品鉴家！他的品味超越时代！
+如今除了站在你面前这位忠诚而孤独的虫子，再无虫以应有的尊崇侍奉他。
+在主人享用即将到来的盛宴之前，那点油只是他用来唤醒味蕾的开胃小菜罢了。这可是我毕生筹备、横跨纺络的盛宴！
+可叹啊！上面那些虫似乎早已抛弃了我可怜的主人！而我又垂垂老矣，再也没指望能集齐必需的食材了。上面那些该死的懒虫！该死！",0,False,GOURMAND_SERVANT
+Wanderers_GRINDLE_CITADEL_MEET,dialogue,Wanderers,Wanderers,GRINDLE_CITADEL_MEET,GRINDLE_CITADEL_MEET,"Well, well! See what happens to nasty bully-bugs when they come after poor old Grindle? That’s a well-deserved end, we reckon.
+We heard this old Sitty-dell was nice and quiet and burstin’ with goodies. So what’s happened, eh? Why’s it crawlin’ with bullies and busybodies?
+The creature that haunts this place is stirring, little thief. The Citadel’s caste now roam the halls. You would do well to leave soon, if you mean to survive.
+What what? You bein’ mirthful? We’re stayin’ here ‘til we’re done pilfering! You should be the one leavin’ if you’re so afeared!",long,True,43.1,7.0,7.0,6.0,20.59,20.59,Initial official version,"啧啧！瞧瞧那些欺负格林德尔恶霸虫是什么下场？真是活该！
+都说圣堡既清净，宝贝又多，怎么全是打手？
+掌控此地的怪物正在苏醒，圣堡的守卫四处游荡，想活命就快逃吧，小毛贼。
+怕什么！起码得等偷够本再说！你要是害怕了，那就自己逃吧！",Public-beta official revision,"哎呀，哎呀！那些讨人厌的恶霸虫子们盯上了可怜的格林德尔，看看它们的下场吧！要我说，这就是它们活该。
+我明明听说这座“圣宝”很不错，既清静，又到处是宝贝。现在怎么回事？怎么遍地都是坏虫子和爱管闲事的家伙？
+游荡于此地的怪物正不断增多，小偷。圣堡的回廊内全是它们的身影。如果你还想活命的话，我建议趁早离开这里。
+这都什么跟什么？你是在大发慈悲吗？没偷完东西之前，我绝对不离开这里！你要是害怕的话，就自己跑路吧！",Patch 4 Team Cart Fix version,"啧啧！瞧瞧那些欺负格林德尔的恶霸虫是什么下场？真是活该！
+都说这老“剩饱”清净，宝贝又多，可这是咋回事？为啥到处都是恶霸和爱管闲事的家伙？
+掌控此地的怪物正在苏醒，圣堡的守卫四处游荡，想活命就快逃吧，小毛贼。
+啥啥？你在逗我开心吗？东西没偷够，我们绝不走！你要是怕就自己走！",0,False,GRINDLE_CITADEL
+Wanderers_MAPPER_GENERIC_SHELLWOOD_RAPTURED,dialogue,Wanderers,Wanderers,MAPPER_GENERIC_SHELLWOOD_RAPTURED,MAPPER_GENERIC_SHELLWOOD_RAPTURED,"Needle Child. Hakk! I encountered a settlement near here, at the core of a vein of old bells. The bugs there were snared silent on a web of Silk.
+It seemed the pernicious trap of some unseen predator. I left quickly, making sure to avoid the glimmering threads.
+I passed the town myself. The thread sickness, I’ve seen its like upon the roads, but there it does not discriminate.
+The curse that strikes the town, it is driven, focused. A cold use of Silk at a concerning scale.
+If the path permits, I will investigate its source.",long,True,42.8,6.667,7.0,6.0,20.403,20.403,Initial official version,"使针的小姑娘！哈克！附近钟心镇被邪丝罩着，居民全中招了。
+像是某种没见过的掠食者设的陷阱，我躲着丝溜走了。
+我也路过了那里。路上丝咒多是个例，但那镇子上的邪丝却不挑目标。
+这等规模和冷血手段，显然受到操纵。
+我会顺路追查其源头。",Public-beta official revision,"执针的小姑娘，哈克！我在附近见到一个定居地，它位于古老的钟脉中心。那里的虫子被灵丝织成的网困住，无法发声。
+似乎是我从未见过的掠食者设下的致命陷阱。我很快就离开了，刻意避开那些闪闪发光的丝线。
+我也经过了那座镇子。我在之前的道路上就见过这种丝线疫病，当时它还不分对象。
+但这场袭击镇子的诅咒，却是被谁有意驱使、极具针对性。这种操纵灵丝的方式十分冷酷，而且规模庞大，令人不安。
+如果顺路，我会调查它的来源。",Patch 4 Team Cart Fix version,"使针的小姑娘！哈克！我在这附近遇到了一处聚落，就在古老钟脉的中心。那里的居民全被灵丝织成的网困住，静默无声。
+像是某种潜藏掠食者设下的致命陷阱。我没有久留，确保自己躲开了那些闪着微光的丝线。
+我也经过了那里。一路上我也见过类似的情况，但镇子上的丝线病却是不分对象的。
+袭击小镇的诅咒具有针对性，显然有东西在背后操控。这种使用灵丝的手段十分残忍，规模也相当可怕。
+如果情况允许，我会追查其源头。",0,False,MAPPER_GENERIC
+Peak_MASK_MAKER_UNMASK_TALK_04,dialogue,Peak,Peak,MASK_MAKER_UNMASK_TALK_04,MASK_MAKER_UNMASK_TALK_04,"The bugs of your land, I have watched them, climbing towards their absolution without the flicker of a thought to what it means.
+Aye. But isn’t it always such for those snared to serve your higher caste?
+Our mortal mob did once act some defiance, unawares maybe, but successful in part, goaded towards it by Weavers’ will’n all.
+You speak of the Citadel? Its former function has failed, but I can still sense its purpose, some. It is church and cage both.
+Aye. Devised by your ancestors that monstrosity, and their wicked, clever minds. A system, or a web they’d likely call it, a way to keep their mother sealed in slumber, and themselves free to lavish in their false rule.",long,True,42.9,7.167,5.0,6.0,20.243,20.243,Initial official version,"我观察了这片土地的虫。他们一心爬向救赎，却不懂这意味着什么。
+是啊，但被你们高等族群使唤的不都这样。
+我们凡虫不是没反抗过。当年被织者忽悠着，居然还真成了点事。
+你说圣堡？虽然荒废了，还是能感觉到它的用途：既是教堂又是牢笼。
+是啊。你祖辈造的这怪物，用狡猾心思织成网，让母亲陷入沉眠，自己却在外面称王。",Public-beta official revision,"你们这片土地的虫子啊，我观察很久了。他们拼命追求所谓的""救赎""，却连那意味着什么都没细想过。
+没错。被你们高等存在控制的，不都这样吗？
+我们这些凡虫也曾反抗过，可能自己都没意识到，但好歹算成了点事儿，说到底还是被编织者的意志给拱火的。
+你说的是圣堡吗？它原本的功能已经失效，但我还能隐约感受到它的用途。既是教堂，也是牢笼。
+没错。都是你们祖先搞出来的畸形产物，仗着他们那狡猾又聪明的头脑。
+搞出这么个系统，或者按他们的说法叫""网""，用来让他们的母亲长眠不醒，自己好享受虚假的统治。",Patch 4 Team Cart Fix version,"我一直在观察这片土地上的虫子。他们一心爬向救赎，却从没想过这意味着什么。
+是啊，但被你们高等族群诱骗来侍奉的不都是这样么？
+我们凡虫倒也反抗过，虽然可能没注意到是编织者在有意地顺水推舟，但总归是成功了一部分。
+你说圣堡？它曾经的功能虽已荒废，但我仍能隐约感觉到它的用途。既是教堂，也是牢笼。
+是啊。你的祖先用诡诈的才智建造了这怪物。这套装置，或者她们愿意称之为蛛网，是为了把她们的母亲封印于沉眠之中，好让自己沉醉于虚假的统治里。",0,False,MASK_MAKER
+Crawl_BLUE_SCIENTIST_ACCEPT,dialogue,Crawl,Crawl,BLUE_SCIENTIST_ACCEPT,BLUE_SCIENTIST_ACCEPT,"Excellent! With two bugs at the task, the rate of discovery shall greatly increase!
+Now! Before he up and vanished, my previous assistant seeded the warrens below with Plasmium buds.
+The buds should be ripening as we speak and the nectar within must be extracted before they reach maturity.
+With the right tool in claw, collecting the nectar is an easy process. I’ll even lend you my own Needle Phial for the job.
+Once you locate a bud, simply charge the Phial until readied, then release its needle into a bud’s core. Do it right, and it’ll suck out the nectar in one clean pop!
+Return them to me when you’ve retrieved the necessary samples. With the right nectar, and the right testing, Plasmium can reveal even more of its wondrous properties!",long,True,44.6,6.667,1.0,6.0,20.223,20.223,Initial official version,"太好了！效率翻倍！
+我那前任助手在下面虫道种了生质液花苞。
+现在应该快成熟了，得在成熟前提取生质液。
+用储液针管采集，很简单的，我把我用的借给你。
+找到花苞后蓄满力，把针头扎进核心，嗖的一下就能抽出来！
+把带样本回来。有了它们做实验，生质液会更神奇！",Public-beta official revision,"很好！多一只虫子来帮我，研究效率就能大大提高！
+好了！在消失之前，我的前任助手在下面的虫道种植了一些灵离液花苞。
+现在那些花苞应该快要成熟了，我们必须在它完全成熟之前提取其中的花蜜。
+只要有合适的工具，采集花蜜不是什么难事。我可以把我的储液针管借给你。
+找到花苞之后，只需要为针管蓄满力，然后把针头扎进花苞的核心就可以了。遵循正确的操作，就能把花蜜一口气全吸出来！
+取回所需样本后，再回来找我。有了充足的花蜜以及正确的试验方法，我们可以揭示更多灵离液的奇妙特性！",Patch 4 Team Cart Fix version,"太好了！现在有两只虫子，探索的效率要猛增了！
+听着！在我前任助手突然消失之前，他在下面的虫道里种了生质液花苞。
+现在花苞应该快成熟了，得在成熟前提取浆液。
+只要有合适的工具，采集工作就会很简单。我甚至可以把我自己的储液针管借给你用。
+找到花苞后，只要把针管拉到底，把针头扎进花苞核心里。只要你操作正确，一下就能把浆液抽出来！
+采集到样本之后就带回来。只要有合适的浆液，再在实验中正确操作一番，生质液就肯定能展现出更多神奇特性！",0,False,BLUE_SCIENTIST
+Wanderers_HUNTER_FAN_ZAPNEST_MEET,dialogue,Wanderers,Wanderers,HUNTER_FAN_ZAPNEST_MEET,HUNTER_FAN_ZAPNEST_MEET,"Ahh miss grown-up, Nuu hoped you would return here. For clever Nuu can track well where you have been, she sees your cut-marks and sniffs out your fragrant trail!
+And look where the trail has led sweet Nuu! A thick wriggler lived in this nest, rumbling and crackling in the darkness.
+Its sour juices still line these rocky insides, and patient Nuu will gather it all up!
+There is much to learn in these crusted highlands Nuu, but much danger as well. Indulge your curiosity if you must, but keep your senses trained on the darkness.",long,True,42.5,6.333,7.0,6.0,20.217,20.217,Initial official version,"大姐姐！努努跟着你的刀痕和体香找到这啦！
+这个巢穴住着条乱扭的胖家伙，在黑暗里咔咔响！
+岩壁上还粘着它的酸液，努努要全部收集！
+这里虽然知识多，但也很危险，别只顾着好奇，也要小心黑暗中的动静。",Public-beta official revision,"呀，是大姐姐，努努盼着你会回到这里。因为聪明的努努可擅长追踪，能看见你身上战斗的痕迹，还能闻到你的芳香踪迹呢！
+快看努努找到了什么！这里住着一只胖胖的大家伙，在黑暗里发出闷响，劈里啪啦的。
+石头里面全是它的酸液，努努会把它们全部收集起来！
+努努，这高地里虽然有很多值得学习的东西，但也很危险。满足好奇心固然重要，但在黑暗中也要保持警惕。",Patch 4 Team Cart Fix version,"大姐姐！努努觉得你会回到这里。因为聪明的努努能准准地追踪你去过的地方，她瞧见你留下的砍痕，还能嗅出你香喷喷的气味痕迹！
+快看这踪迹把可爱的努努引到哪儿啦！这窝里曾住着一条肥嘟嘟的蠕虫，在黑黢黢的地方咕噜咕噜响呢。
+岩壁里头还沾着它酸溜溜的汁液，耐心的努努要全部收集起来！
+努努，这覆盖着硬壳的高地到处都可以研究，但也充满危险。不能只顾着好奇，要小心黑暗中的动静。",0,False,HUNTER_FAN
+Wanderers_MAPPER_GENERIC_GREYMOOR,dialogue,Wanderers,Wanderers,MAPPER_GENERIC_GREYMOOR,MAPPER_GENERIC_GREYMOOR,"Fair greetings, Shakra. You are a welcome sight amidst the sodden gloom of these caverns. 
+Child Wielding Needle, your aspect is still sharp. My respect remains. Heed a warning, many fierce bugs roost nearby.
+On the lake beyond this cave nest a ragged horde atop an old watermound. Their mastery of flight makes them dangerous. My shell will forever carry the score of their pins.
+If you’re seeking a safer path, head back, towards this land’s core.",long,True,42.5,6.167,7.0,6.0,20.183,20.183,Initial official version,"幸会，沙克拉。能在这阴湿洞穴里见到你真好。
+使针的小姑娘，身手还是那么利索。提醒你，附近猛虫可不少。
+前面湖心住着群飞虫，我壳上被它们的针弄得全是伤。
+想走安全点的路就就回头，往这地方的中心走。",Public-beta official revision,"我们又见面了，沙克拉。能在这些阴暗潮湿的洞穴中见到你，实在令我欣慰。
+执针的小女孩，你还是那么敏锐，我向你致意。但你可得留意，附近栖息着许多凶猛的虫子。
+穿过这个洞穴就能见到一片湖泊，一大群毛羽凌乱的虫子盘踞在那古老的水堤上。它们的飞行技艺十分高超，因此也极为凶险。我的外壳上就永远留下了它们的刺针划痕。
+如果你想找一条更加安全的道路，回头吧，去往这片土地的中心。",Patch 4 Team Cart Fix version,"幸会，沙克拉。能在这阴暗潮湿的洞穴里见到你真好。
+身手还是那么利索，使针的小姑娘，我的敬意依旧。提醒你一句，附近栖息着不少凶猛的虫子。
+洞外的湖泊里，有个邋遢的部落在水丘上筑巢。他们擅长飞行，非常危险。我的壳上要永远留着他们的刺痕了。
+你想找条安全点的路的话，就回头，往这地方的中心走。",0,False,MAPPER_GENERIC
+Wanderers_GARMOND_MEET_CITADEL_FIRST,dialogue,Wanderers,Wanderers,GARMOND_MEET_CITADEL_FIRST,GARMOND_MEET_CITADEL_FIRST,"Gurrroo! A fellow warrior braves this blighted place! Know you stand before the honoured knight Garmond, and brave companion Zaza.
+Together, Zaza and I are wish bound to scale this Citadel, and vanquish the horrors at its heart!
+Then good luck to you, sir bug. It is heartening to meet another of sound mind and fortitude enough to fight back against the many haunted husks.
+Aye! Never-ending, these unnatural opponents! This Citadel seems its twisted source, and honour decrees we must fight on, until we rend the heart of its decay!",long,True,42.0,6.667,7.0,6.0,20.083,20.083,Initial official version,"嘎噜！又来个勇士！我乃荣耀骑士加蒙德，这位是忠仆扎扎！
+我们要杀上圣堡，端了诅咒的老巢！
+那祝你好运。难得能遇见敢反抗丝咒傀儡的清醒者。
+是啊，这些傀儡，杀都杀不完！圣堡似乎就藏着祸根，必须捣毁！",Public-beta official revision,"嘎噜！又是一名勇士，在这片饱受摧残的土地上闯荡！记住——你面前的是荣耀骑士加蒙德，以及无畏战友扎扎！
+扎扎和我注定会征服圣堡，击溃它深处的骇人怪物！
+那我祝你好运，先生。难得能遇见一位神志清明、且有勇气对抗那些幽魂躯壳的同行者，实在令人欣慰。
+没错！这些傀儡一般的敌人简直没完没了！那座圣堡似乎就是扭曲的源头，所以我们必须为荣誉而战，直至捣毁它腐烂的心脏！",Patch 4 Team Cart Fix version,"格噜！竟还有勇士踏足这片荒芜之地！我乃荣耀骑士，加蒙德。这位是我勇敢的同伴，扎扎。
+我们两个誓要攻下这座圣堡，铲除盘踞在核心的恐怖诅咒！
+那祝你好运，骑士先生。难得又遇见一位意志坚定，敢于反抗丝咒傀儡的清醒者。
+是呀！这些离奇的对手，杀都杀不完！圣堡似乎就是那万恶之源，骑士的荣耀要求我们奋战到底，直到捣毁那衰败的核心！",0,False,GARMOND_MEET
+Crawl_BLUE_SCIENTIST_ACCEPT_ZANGO,dialogue,Crawl,Crawl,BLUE_SCIENTIST_ACCEPT_ZANGO,BLUE_SCIENTIST_ACCEPT_ZANGO,"Excellent! With two bugs at the task, the rate of discovery shall greatly increase!
+Now! Before he went and died, my previous assistant seeded the warrens below with Plasmium buds.
+The buds should be ripening as we speak and the nectar within must be extracted before they reach maturity.
+With the right tool in claw, collecting the nectar is an easy process. I’ll even lend you my own Needle Phial for the job.
+Once you locate a bud, simply charge the Phial until readied, then release its needle into a bud’s core. Do it right, and it’ll suck out the nectar in one clean pop!
+Return them to me when you’ve retrieved the necessary samples. With the right nectar, and the right testing, Plasmium can reveal even more of its wondrous properties!",long,True,44.2,6.5,1.0,6.0,20.03,20.03,Initial official version,"太好了！效率翻倍！
+我那死鬼助手在下面虫道种了生质液花苞。
+现在应该快成熟了，得在成熟前提取生质液。
+用储液针管采集，很简单的，我把我用的借给你。
+找到花苞后蓄满力，把针头扎进核心，嗖的一下就能抽出来！
+把带样本回来。有了它们做实验，生质液会更神奇！",Public-beta official revision,"很好！多一只虫子来帮我，研究效率就能大大提高！
+好了！我的前任助手生前在下面的虫道种植了一些灵离液花苞。
+现在那些花苞应该快要成熟了，我们必须在它完全成熟之前提取其中的花蜜。
+只要有合适的工具，采集花蜜不是什么难事。我可以把我的储液针管借给你。
+找到花苞之后，只需要为针管蓄满力，然后把针头扎进花苞的核心就可以了。遵循正确的操作，就能把花蜜一口气全吸出来！
+取回所需样本后，再回来找我。有了充足的花蜜以及正确的试验方法，我们可以揭示更多灵离液的奇妙特性！",Patch 4 Team Cart Fix version,"太好了！现在有两只虫子，探索的效率要猛增了！
+听着！在我前任助手死在外面之前，他在下面的虫道里种了生质液花苞。
+现在花苞应该快成熟了，得在成熟前提取浆液。
+只要有合适的工具，采集工作就会很简单。我甚至可以把我自己的储液针管借给你用。
+找到花苞后，只要把针管拉到底，把针头扎进花苞核心。只要你操作正确，一下就能把浆液抽出来！
+采集到样本之后就带回来。只要有合适的浆液，再在实验中正确操作一番，生质液就肯定能展现出更多神奇特性！",0,False,BLUE_SCIENTIST
+Wanderers_SHERMA_CORAL_WAKE_2,dialogue,Wanderers,Wanderers,SHERMA_CORAL_WAKE_2,SHERMA_CORAL_WAKE_2,"Hrm? Hoy there! I was looking for somewhere to rest my weary shell and found this cosy station!
+These lands are dangerous. I had thought perhaps some harm had come to you.
+Harm? O red maiden, have faith! No harm can come to us on this holy ascent! We only need to keep our gaze upwards.
+Isn’t this all so terribly grand? The great stone steps, the winds lifting us up like the voices of a choir, and just beyond it all is our pilgrimage’s end. The great Citadel at last!",long,True,41.325,6.667,7.0,6.0,19.813,19.813,Initial official version,"嗯？红衣姑娘！我正在找地方歇脚，这驿站多舒适啊！
+此处很凶险，我担心你遭遇不测。
+不测？要对圣途有信心！只要仰望圣堡，灾祸自会远离！
+这景象多壮丽啊！巨大石阶，乘着风声，宛如圣歌，终点就在眼前了！",Public-beta official revision,"嗯？嘿，你好呀！我刚才太累了，想找个地方休息一下，然后发现了这处舒适的站点！
+这里非常危险，我还以为你受了什么伤。
+受伤？哎，红衣大姐姐，要有信心呀！这是神圣的旅途，没有什么能伤害到我们！只需要一直仰望圣堡就行了。
+这景象多壮丽啊！巨大的石头台阶，还有托起我们的狂风，就好像唱诗班发出的声音。只要能越过这一切，就能抵达朝圣的终点——伟大的圣堡！",Patch 4 Team Cart Fix version,"嗯？嘿！我正想找个地方歇一歇，就发现了这个温馨的站台！
+这里危机四伏，我还以为你遭遇了什么危险。
+危险？红衣姑娘呀，请放心！只要仰望圣堡，在这神圣的攀登之路上，灾祸自然会跑开！我们只需往前看。
+这一切是不是非常壮观？巨大的石阶，如圣歌般的风声将我们托起，而在这前方，我们的终点——伟大的圣堡终于出现啦！",0,False,SHERMA_CORAL
+Wanderers_GRINDLE_SLAB_MEET,dialogue,Wanderers,Wanderers,GRINDLE_SLAB_MEET,GRINDLE_SLAB_MEET,"Hoy! We thought one of them buzzing bullies was sneakin’ up on us, but it’s just a mangy jailbug!
+Why you in here, then? Caught thievin’ were you? Greedy, greedy!
+I’ve stolen nothing. Rather, I suspect the wardens are servants of the Citadel. The cage used in my capture bore similar runes to the one that first brought me to this land.
+Bound in that cage, I’d have proved a fine gift were they to deliver me to their masters.
+Pah, there ain’t nothin’ fine about you, jailbug. We recognised a fellow thief soon as we saw you!
+Now, don’t be lingerin’ around here. Those guards’ll be wanting to pop you back in your cage quick quick!
+They’ll not get the chance. I will reclaim my belongings and leave this grim place with haste.",long,True,42.2,6.5,7.0,6.0,20.13,19.78,Initial official version,"还当是狱卒呢，结果是只脏老鼠！
+你是因为偷什么进来的？贪心鬼！
+我没偷东西。这儿的狱卒应该侍奉于圣堡，抓我的笼子和最初那个有相同印记。
+如此执着于我，看来它们真的认为我是一份献给主人的好礼物。
+呸，你身上有什么好的！少装蒜，我一看你就一脸贼相！
+快走快走！别在附近瞎晃悠，小心又被关回笼子！
+他们没机会的，我取回自己的东西就走。",Public-beta official revision,"嘿！我还以为又是那群嗡嗡响的狱霸来了...结果是个邋遢牢饭虫！
+所以，咋进来的？是偷东西被抓的？贪心，太贪心了！
+我什么也没偷，但我怀疑这里的狱卒都侍奉着圣堡。它们抓我用的牢笼上有符文，我被强行带到这片土地时也见过类似的印记。
+当时我也被关在牢笼里，看来它们真的认为我是献给它们主人的一份大礼。
+呸呸，你不过是个囚犯，肯定品行不正。我一眼就看得出来，你不是什么好人！也是个小偷！
+别在这里瞎晃悠了。狱卒马上就来把你塞回笼子！
+它们没机会了。等我拿回属于自己的东西，我就马上离开这个阴森的地方。",Patch 4 Team Cart Fix version,"嘿！还当是狱卒呢，结果是只脏臭虫！
+你是因为偷什么进来的？贪心鬼！
+我没偷东西。那些狱卒恐怕是圣堡的走狗。抓捕我的笼子上所刻的符文，最初将我带到这片土地的那个笼子上也有相似的。
+如此执着于我，看来他们真的认为我是一份献给主人的好礼物。
+呸，你身上有什么好的！少装蒜，我一看你就一脸贼相！
+快走快走！别在附近瞎晃悠，狱卒们恨不得马上把你关回笼子里！
+他们没机会的，我会取回自己的东西，然后立刻离开这阴森的地方。",1,True,GRINDLE_SLAB
+Wanderers_SHERMA_CORAL_NOBENCH,dialogue,Wanderers,Wanderers,SHERMA_CORAL_NOBENCH,SHERMA_CORAL_NOBENCH,"You see this idol before us, red maiden? I have passed its like before. They mark our pilgrimage well.
+If we sing to it, a miraculous shrine will rise from the ground, and we will have a place to rest! Such a wonder!
+It is not song that rouses this shrine, but payment in rosaries.
+Without rosaries, the shrine remains hidden. I have encountered similar constructs on Pharloom’s paths. This kingdom does not grant rest lightly.",long,True,41.175,6.5,7.0,6.0,19.72,19.72,Initial official version,"看见这圣像了吗？沿途都有标记。
+对着它歌唱，圣椅就会升起供我们歇息！多神奇！
+唤醒长椅的不是歌声，谢尔玛，而是念珠。
+无念珠者不得休憩，纺络从不轻易施恩。",Public-beta official revision,"红衣大姐姐，你看见眼前的这尊圣像了吗？我之前也见过类似的雕像，它们是朝圣之路的标志。
+如果对它唱歌，圣椅就会从地面奇迹般地升起，我们就能有休息的地方了！多么神奇呀！
+唤醒长椅的不是歌声，谢尔玛，而是投入的念珠。
+没有念珠，长椅永远不会显现。我在法鲁姆的其他地方也遇到过类似的情形。这座王国不会轻易让我们得到歇息。",Patch 4 Team Cart Fix version,"红衣姑娘，看见面前这圣像了吗？我以前也见过类似的，是朝圣路上的好路标。
+只要我们对着它歌唱，神奇的圣椅就会从地里冒出来供我们歇息！多神奇啊！
+唤醒长椅的不是歌声，得付念珠才行。
+没有念珠，圣椅就不会升起。我在纺络的路上遇到过相似的机关，这个王国从不轻易赐予安歇之地。",0,False,SHERMA_CORAL
+Belltown_PINSMITH_UPGRADE_3_POST,dialogue,Belltown,Belltown,PINSMITH_UPGRADE_3_POST,PINSMITH_UPGRADE_3_POST,"Welly, done! What miracle to work again upon steel so fine. Few pins left in Pharloom could attain such a sheen!
+You must tell me, traveller, wherever did you come upon so splendid a weapon?
+The blade was a gift, given by a noble tribe of my homeland. They forged the strongest steel, though it was rarely seen beyond their hive.
+That tribe has now long passed, and with them the secrets to their craft.
+Ahhh. If they are gone, it’s a rarer piece than would be guessed! But what grand luck for this humble pinmaster to have worked with such a weapon!",long,True,41.9,6.0,5.0,6.0,19.61,19.61,Initial official version,"哎呀呀！成啦！圣油配上如此精钢，真是奇迹。纺络还剩几根针能有此锋芒！
+旅者，我得问问你，哪里得来如此神兵？
+故土一贵族部落所赠，其族以锻钢之术闻名，但成品鲜少外流。
+该族早已灭绝，其锻造秘技随之消逝。
+唉呀！竟然还是件孤品！我这卑微针匠能照料此针，也是三生有幸！",Public-beta official revision,"好，搞定！能再次为如此精良的钢刃工作，真是奇迹。法鲁姆里剩下的刺针里，很少能闪耀如此光泽！
+旅行者，你必须告诉我，你是从哪里得到如此精良的武器？
+这把针刃我故乡的一个高贵部落赠与的礼物。它们锻造出最坚韧的钢铁，这种钢铁在它们的巢穴之外很少看到。
+那个部落早已消失，他们的锻造秘密也随之失传。
+啊！啊，如果他们真的消失了，那么这个就是比想象中还要稀有的珍品！对于这位卑微的针匠来说，能在工作中遇到如此神器，真是莫大的幸运！",Patch 4 Team Cart Fix version,"哎呀呀！成啦！能再次着手加工如此精钢，真是奇迹。纺络还剩几根针刃能有此锋芒！
+您得告诉我，旅者，如此无与伦比的武器是从哪来的？
+这是我家乡一个贵族部落的赠礼，他们以锻钢之术闻名，可成品却鲜少能在他们的蜂巢外见到。
+如今那个部落早已覆灭，他们的锻造秘技也随之消逝。
+哎呀！竟然还是件孤品！我这卑微的针匠竟能照料此针，真是莫大的荣幸！",0,False,PINSMITH_UPGRADE
+Wanderers_HUNTER_FAN_SPLINTERQUEEN_MEET,dialogue,Wanderers,Wanderers,HUNTER_FAN_SPLINTERQUEEN_MEET,HUNTER_FAN_SPLINTERQUEEN_MEET,"Ooh ma ma! Look here, miss grown-up! Very fascinating creature here, all dead in bits now, but still good!
+She takes the shape of the woods for her body, and her hair like bitter leaves! Clever, thinks Nuu!
+This creature staked its territory here and attacked as I passed through.
+You should not linger long. Her tribe remains hidden amongst the branches, disguised and waiting to strike.
+Oooh! So the cutting-up was done by you? Nuu gives her warm thanks! Now Nuu can inspect this creature well, all its gooey insides and crunchy shell!",long,True,41.1,6.0,7.0,6.0,19.59,19.59,Initial official version,"哇！大姐姐快看！这只死透的怪物超有趣！
+身体像树干，头发像苦叶子！努努觉得它超聪明！
+这生物占据此处，袭击路人。
+别久留，它的同族还在树丛里埋伏呢。
+哇！是你干掉的？太感谢啦！现在可以好好研究它的粘液和脆壳了！",Public-beta official revision,"哇！天呐！快看这里，大姐姐！多么神奇的生物啊！虽然已经残缺不全，但依然值得研究！
+她的身体像树干，毛发像发苦的叶子！努努觉得她好聪明！
+它将这里占为己有，并在我经过的时候发动了袭击。
+此地不可久留，它的同族依然埋伏在树枝中，等待袭击下一个猎物。
+哎哟！所以是大姐姐干掉的？努努太感谢啦！努努现在可以好好观察它，研究它黏糊糊的内脏和硬壳了！",Patch 4 Team Cart Fix version,"呜嘛嘛！快看这儿，大姐姐！这只生物好有趣，虽然现在碎成块儿死透了，但还是很有意思！
+她把身子伪装成树林的形态，而发丝就像苦涩的树叶！努努觉得超聪明！
+这生物在此划地为界，我经过时便发起了攻击。
+你不该久留。她的部族仍藏匿在树枝间，伪装着伺机突袭。
+呜噢！所以是你把它切碎的？努努表示热烈感谢！现在努努能好好检查这只生物了，看它黏糊的内脏和嘎嘣脆的外壳！",0,False,HUNTER_FAN
+Wanderers_MAPPER_SPAR_REOFFER,dialogue,Wanderers,Wanderers,MAPPER_SPAR_REOFFER,MAPPER_SPAR_REOFFER,"We must never let our shells soften, or Pharloom’s sharp teeth will sink in quick.
+Would you duel with me, Hornet Wielding Needle? Together we shall sharpen one another’s skill.",medium,True,35.75,5.333,7.0,6.0,17.317,17.317,Initial official version,"战士不能养尊处优，纺络到处藏着危险。
+来切磋吧？我们互相磨练技艺。",Public-beta official revision,"我们绝不能让自己的力量有所松懈，否则法鲁姆就会亮出它的獠牙并刺入你的身体。
+你是否愿意和我切磋一番，执针的大黄蜂？互相切磋，共同进步。",Patch 4 Team Cart Fix version,"战士不能养尊处优，纺络的危险就像尖牙一样，随时会致命。
+要和我决斗一场么，使针的大黄蜂？我们可以精进彼此的技术。",0,False,MAPPER_SPAR
+Wanderers_SHERMA_MEET_OPENED2,dialogue,Wanderers,Wanderers,SHERMA_MEET_OPENED2,SHERMA_MEET_OPENED2,"I’m Sherma, by the way. Just another humble pilgrim like yourself. If you ever need assistance on the road ahead, sing out my name and I’ll be sure to find you. Me and my lucky chime are at your service!",medium,True,35.575,5.667,7.0,6.0,17.313,17.313,Initial official version,我叫谢尔玛，和你一样是朝圣者。路上需要帮忙就喊我！我和幸运铃铛随叫随到！,Public-beta official revision,"差点忘记自我介绍了，我叫谢尔玛。和你一样，是个谦卑的朝圣者。
+如果你在前方需要帮助，就大声唱出我的名字，我一定会来到你的身边。我和我的幸运铃铛随叫随到！",Patch 4 Team Cart Fix version,对了，我叫谢尔玛，和你一样是朝圣者。路上需要帮忙的话，就喊我的名字，我一定会找到你！我和我的幸运铃铛随叫随到！,0,False,SHERMA_MEET
+Belltown_COURIER_SHOP_BEGIN_PILGRIMSREST,dialogue,Belltown,Belltown,COURIER_SHOP_BEGIN_PILGRIMSREST,COURIER_SHOP_BEGIN_PILGRIMSREST,"Deliverings for the waystation in the fields at Pharloom’s edge, a small rest-stop, still serving.
+This journey is maybe not so very hard for you, miss courier? We think you is perfect for this wish!",medium,True,34.85,5.5,5.0,6.0,16.69,16.69,Initial official version,"给远野驿站的货，那小站还在营业。
+对您不算难吧？您是最合适的人选！",Public-beta official revision,"还有送到法鲁姆远野驿站的货，那是个休息的地方，还在用着。
+送货员小姐，这趟旅程对你来说也许不那么困难？我们觉得你最适合干这活儿！",Patch 4 Team Cart Fix version,"给远野驿站的货，那个小驿站还在营业。
+这趟旅途对您不算难吧，邮差小姐？我们觉得您是最适合完成它的了！",0,False,COURIER_SHOP
+Wilds_SEAMSTRESS_BROLLY_QUEST_REPEAT,dialogue,Wilds,Wilds,SEAMSTRESS_BROLLY_QUEST_REPEAT,SEAMSTRESS_BROLLY_QUEST_REPEAT,"I’ll have the spines for you shortly, madam.
+Good, good! The caves just beyond here are full of the creatures, floating carelessly in the warm air.
+I’m sure your big needle there can coax them into sharing their spines.",medium,True,36.15,5.833,1.0,6.0,16.677,16.677,Initial official version,"我稍候就带来棘刺，女士。
+好！附近的洞窟里到处是那种浮空的蠢虫。
+你的长针肯定能""劝""它们献出棘刺。",Public-beta official revision,"马上就能把脊骨芯子给您弄来，夫人
+不错！前面山洞里到处都是这些家伙，在暖风里飘来飘去。
+你那根大针应该能""劝""它们交出脊骨，剖开取芯子不过是顺手的事。",Patch 4 Team Cart Fix version,"我稍后就带棘刺芯来，女士。
+好，很好！附近的洞窟里到处都是这种生物，就在热气里毫无防备地飘着呢。
+你的长针肯定能让它们乖乖交出棘刺。然后只要切开棘刺，取出芯，很快就能搞定。",0,False,SEAMSTRESS_BROLLY
+Belltown_SHOP_ITEM_FURNISHING_PAINT_DESC,dialogue,Belltown,Belltown,SHOP_ITEM_FURNISHING_PAINT_DESC,SHOP_ITEM_FURNISHING_PAINT_DESC,"You’ve a good solid bell up there, though its surface is showing its age. Why not have us paint it fresh? A protective coat and a little flair!",medium,True,35.0,5.667,5.0,5.0,16.633,16.633,Initial official version,你的钟屋结实但显旧。刷层护漆加点花纹如何？,Public-beta official revision,你的钟屋挺结实，只是表面有些陈旧。何不让我们帮你重新粉刷一番？一层防护膜，再添几丝风采！,Patch 4 Team Cart Fix version,你的钟居制作精良，坚固结实，就是外表看起来太旧了。要不要我们重新粉刷下？就刷一层保护漆，再加一点我们的审美！,0,False,SHOP_ITEM
+Wilds_HUNTRESS_TALK_CITADEL,dialogue,Wilds,Wilds,HUNTRESS_TALK_CITADEL,HUNTRESS_TALK_CITADEL,"Have you seen it... small sspidderrr.... that cruel Citadel, weighing heavy atop tthissss land?
+My hunger may seem great, but that place... that is consumption unending...",medium,True,40.925,7.0,5.0,6.0,19.42,16.62,Initial official version,"咝——小蜘蛛，我仍能闻到你的紧张感。我还是让你觉得危险？
+这片土地处处危机，高个子，我自然得保持戒备。你的利爪看起来没少沾血。
+咝——我乐于杀戮，但也只是为了喂饱自己，以及我即将出生的孩子们。
+那座圣堡压在这片土地之上。咝——那地方的“饥饿”与我的相比，可算是个无底洞。",Public-beta official revision,"你可曾见过……小蜘蛛……那残酷的圣堡，重重地压在这片土地之上？
+我饿虽饿，但那儿……可是吃人不吐骨头的地方……",Patch 4 Team Cart Fix version,"你见过吗……小蜘蛛……嘶……那座压在这片土地上的残酷圣堡？
+我的胃口，嘶……或许看着大，但那个地方，嘶……才是真正的无底洞……",24,True,HUNTRESS_TALK
+Caravan_TROUPE_MEMBER_SHORT_MEET_FESTIVAL,dialogue,Caravan,Caravan,TROUPE_MEMBER_SHORT_MEET_FESTIVAL,TROUPE_MEMBER_SHORT_MEET_FESTIVAL,"Good friend of fleas is you, Miss Hornet. Now must join and drink much. Be merry before all ends. Brew is made, enough for all!
+No charge for you if needing more. Why waste when future is final?",medium,True,34.725,5.0,5.0,6.0,16.54,16.54,Initial official version,"大黄蜂小姐，我们跳蚤的挚友，快来喝！末日临头该及时行乐！药酿管够！
+尽管喝吧！都要完蛋了还留着干嘛？",Public-beta official revision,"你真是跳蚤们的好朋友，大黄蜂小姐。请务必加入我们，一起喝个痛快。趁一切还没完，及时行乐吧！酒管够，人人有份！
+想喝多少都免费。反正明天都要完蛋，浪费啥？",Patch 4 Team Cart Fix version,"大黄蜂小姐，你是我们跳蚤的挚友，快来一起喝！末日将至，及时行乐！秘酿管够！
+免费续杯。末日都要来了，别浪费了这些秘酿！",0,False,TROUPE_MEMBER
+Belltown_DOCTOR_CURSE_REPEAT,dialogue,Belltown,Belltown,DOCTOR_CURSE_REPEAT,DOCTOR_CURSE_REPEAT,"Off with you! Head over to that tangled mess of cages, in those roads above the moors.
+Those two bugs, Benjin and Crull, can surely scrounge up what I need. A full bundle of hard, sharp spines!",medium,True,35.825,5.667,1.0,6.0,16.513,16.513,Initial official version,赶紧去！找沼地上边铁笼堆的班金和克鲁尔，拿钢棘回来！,Public-beta official revision,"走吧！前往荒原上方的道路中的那堆混乱叠放的笼子。
+那两只虫子，班金和克鲁尔，肯定能帮我找到我需要的东西。整整一捆坚硬锋利的钢棘！",Patch 4 Team Cart Fix version,"赶紧去！走灰沼上方的那些路，就在那堆乱糟糟的铁笼子那里。
+那两只虫子，班金和克鲁尔，他们绝对能找到我要的东西。我要一整捆坚硬的钢棘！",0,False,DOCTOR_CURSE
+Belltown_PINSMITH_QUEST_CANCOMPLETE,dialogue,Belltown,Belltown,PINSMITH_QUEST_CANCOMPLETE,PINSMITH_QUEST_CANCOMPLETE,"Pinmaster, I have acquired oil with which my needle may see further sharpening.
+Bonva! What wonder? What wish? To steal a gift so fine. Few are the pinmasters of our age that ever worked with such a substance.",medium,True,35.5,5.833,1.0,6.0,16.417,16.417,Initial official version,"针匠，我取来磨针秘油了。
+太好了！这等圣物，这年头还有哪个针匠能摸到这宝贝！",Public-beta official revision,"针匠，我已经弄到磨针神油了，帮忙把利刃再磨得锋利些吧。
+太好了！不敢相信？不敢想象？居然偷了这么好的东西。当今时代，懂得用这种东西的针匠不多了。",Patch 4 Team Cart Fix version,"针匠，我找到磨针的秘油了。
+天哪！真是奇迹！祈愿成真了！竟能窃取到这等天赐。到我们这年纪的针匠也没几位能摸到这等宝贝！",0,False,PINSMITH_QUEST
+Belltown_PINSMITH_QUEST_REPEAT,dialogue,Belltown,Belltown,PINSMITH_QUEST_REPEAT,PINSMITH_QUEST_REPEAT,"Up there, in that Citadel, the fabled oil is waiting. Bestow it upon this fine pinmaster and your blade shall sing louder yet.
+I will find the oil, pinmaster. Keep your skills sharp.",medium,True,34.475,4.833,5.0,6.0,16.407,16.407,Initial official version,"圣堡藏着秘油。取来此油，你的针鸣将响彻纺络！
+我会寻得此油，请针匠磨好利爪等候。",Public-beta official revision,"传说中的神油就在上面的圣堡里等着你。将此物交给这位出色针匠，你的针刃就能发出更锋利的鸣响。
+我会找到神油的，针匠。请针匠磨好利爪等候。",Patch 4 Team Cart Fix version,"从这往上，那圣堡里藏着一种秘油。把它带给我这位技艺精湛的针匠，您的针鸣将响彻纺络！
+我会找到秘油的，针匠，请您磨练技艺等候。",0,False,PINSMITH_QUEST
+Coral_PINSTRESS_INTERIOR_STAND_MEET,dialogue,Coral,Coral,PINSTRESS_INTERIOR_STAND_MEET,PINSTRESS_INTERIOR_STAND_MEET,"Back again, needle bug? Surely you’ve more important places calling than these sandy steps?
+I shan’t stay long, Pinstress. Your home and your skills offer a sense of safety rare about these lands.",medium,True,35.575,5.5,1.0,6.0,16.38,16.38,Initial official version,"还不走？没有更要紧的事要做吗？
+我不会久留。不过有你这般身手，待在这里反而安全。",Public-beta official revision,"又回来了，使针的小虫子？相比这风沙漫天的台阶，你应该有更重要的地方要去吧？
+我不会停留太久，针姬。但在这片土地上，你的住所和身手让给了我少有的安全感。",Patch 4 Team Cart Fix version,"又回来了，拿针的？你要去的地方肯定比这片沙地更重要吧？
+我不会久留，针姬。你的居所与技艺，在这片荒土中给我带来了难得的安全感。",0,False,PINSTRESS_INTERIOR
+Belltown_COURIER_SHOP_MENTION_GOURMAND,dialogue,Belltown,Belltown,COURIER_SHOP_MENTION_GOURMAND,COURIER_SHOP_MENTION_GOURMAND,"Couriers, I require a rasher of meat, for an old bug in the Citadel. Can you prepare it for me?
+A bug up-up? Theys knows our finest food? If theys appreciate, we can prepare it most prompt! Miss courier has only to ask.",medium,True,35.45,6.167,5.0,6.0,17.063,16.363,Initial official version,"我需要熏肉送给圣堡老虫，能帮忙准备吗？
+上头有虫识货？随时都能准备！救星小姐知会一声就行。",Public-beta official revision,"送货员们，我需要给圣堡里的一个老虫子送熏肉。你们能为我准备吗？
+上……上面的虫子？它们知道我们最好的食物？如果它们喜欢，我们随时都能准备！送货员小姐只管开口。",Patch 4 Team Cart Fix version,"我需要熏肉送给圣堡那位老虫子，能帮忙准备吗？
+上、上头的虫子？晓得咱们最好吃的东西？他们懂得品尝的话，随时都能准备！邮差小姐只要和我们说一声就行。",2,True,COURIER_SHOP
+City_GOURMAND_SERVANT_REPEAT_ACT3,dialogue,City,City,GOURMAND_SERVANT_REPEAT_ACT3,GOURMAND_SERVANT_REPEAT_ACT3,"The master has a mighty endurance, yet all of this rumbling and breaking makes me fearful for their safety.
+Fear not. I will stay by their side until my old shell crumbles away.",medium,True,35.1,5.5,1.0,6.0,16.19,16.19,Initial official version,"虽说主人铜肠铁胃，但这动静也太吓人了。
+不过不用怕，我就算拼了命也会保护主人！",Public-beta official revision,"主人虽然耐力非凡，但这么持续震动，我很担心他的安危。
+不必担心。我会守护在主人身边，直到这副老骨头散架。",Patch 4 Team Cart Fix version,"虽说主人忍耐力超群，但这接连不断的轰鸣与破裂声还是让我不禁担忧他的安危。
+但不必害怕，我会一直守在他的身边，直至我这老朽的躯壳崩碎殆尽。",0,False,GOURMAND_SERVANT
+Bonebottom_MOSSCREEP_TRADE_INTRO,dialogue,Bonebottom,Bonebottom,MOSSCREEP_TRADE_INTRO,MOSSCREEP_TRADE_INTRO,"The Mossberries. Do you still hunt them, little you? My wish was granted, but clear now that more are needed! More!
+Bring more Mossberries here. Mmm. Yes, we will trade. Precious rosaries for fresh berries!",medium,True,35.175,5.333,1.0,6.0,16.187,16.187,Initial official version,"苔莓。仍在猎取吗，小小虫？我祈愿已实现，但需要更多！更多！
+带更多苔莓来。嗯。以念珠换鲜果！",Public-beta official revision,"苔藓浆果。小家伙，你还在找它们吗？我的愿望虽然实现了，但显然还需要更多！还要更多！
+带更多苔藓浆果到这儿来。嗯嗯。没错，我们继续交易。用珍贵的念珠交换新鲜的浆果！",Patch 4 Team Cart Fix version,"你还在搜寻苔莓吗，小家伙？我的祈愿虽已实现。但显然，我仍需更多！更多！
+多带些苔莓来。嗯，当然，我们可以交易，用珍贵念珠换新鲜苔莓！",0,False,MOSSCREEP_TRADE
+Shellwood_WOOD_WITCH_FLOWER_QUEST_REOFFER,dialogue,Shellwood,Shellwood,WOOD_WITCH_FLOWER_QUEST_REOFFER,WOOD_WITCH_FLOWER_QUEST_REOFFER,"Bug. Only you are left. None more tread here. None.
+For the rite. The Pollip Hearts. They are needed. Bring them here, for the rite.",medium,True,34.575,5.833,1.0,6.0,16.047,16.047,Initial official version,"只剩你。无虫来此。
+ 仪式需要花芯。带来此处。",Public-beta official revision,"虫子。只剩你一个了。不会再有别的虫子来到此地。不会有了。
+为了仪式，这些花芯不可或缺。把花芯带给我，才能举行仪式。",Patch 4 Team Cart Fix version,"虫。只剩你。再无虫来。再无。
+为了仪式。花芯。需要花芯。带来此处，为了仪式。",0,False,WOOD_WITCH
+Coral_PINSTRESS_INTERIOR_GROUND_REPEAT,dialogue,Coral,Coral,PINSTRESS_INTERIOR_GROUND_REPEAT,PINSTRESS_INTERIOR_GROUND_REPEAT,"Off with you now, needle bug! A Pinstress of my substantial talent requires their deep meditation, especially after such a satisfying bout.
+Goodbye, Pinstress. May your blade remain sharp.",medium,True,34.675,4.833,1.0,6.0,15.887,15.887,Initial official version,"走吧！针姬需要继续冥想——激烈战斗后更需要静修。
+再会，愿你的锋芒永不褪色。",Public-beta official revision,"离开这里吧，使针的小虫子！我虽然天赋异禀，但也需要深度冥想，特别是经历了如此激烈的对决之后。
+再见，针姬。愿你的刺针永远锋利。",Patch 4 Team Cart Fix version,"你可以走了，拿针的！像我这种造诣颇深的针姬需要深度冥想，更何况刚经历了一场这么尽兴的较量。
+再会，针姬。愿你的尖芒永不褪色。",0,False,PINSTRESS_INTERIOR
+Belltown_DOCTOR_LIFEBLOOD_STATE_REPEAT,dialogue,Belltown,Belltown,DOCTOR_LIFEBLOOD_STATE_REPEAT,DOCTOR_LIFEBLOOD_STATE_REPEAT,"Bzzt! Leave me in peace! The great Yarnaby treats the sick! Not those that benefit from their afflictions. Enjoy its advantage and leave me in peace!
+Very well, madam. I did not mean to waste your time.",medium,True,34.575,5.0,1.0,6.0,15.88,15.88,Initial official version,"滋滋！别烦我！本神医只医病患！享你的福去！
+好吧，女士。无意浪费您的时间。",Public-beta official revision,"嗡嗡！别打扰我！伟大的雅纳比医治病患！可不管那些靠病捞好处的家伙。既然占到便宜了，就别来烦我！
+好吧，夫人，我并非想耽误您的时间。",Patch 4 Team Cart Fix version,"啧啧！别烦我！伟大的雅纳碧只治病人，不治那些靠病捞好处的家伙！得了好处就偷着乐吧，别来烦我！
+好吧，女士。不浪费您的时间了。",0,False,DOCTOR_LIFEBLOOD
+City_LIBRARIAN_SIMPLE_2_TALK,dialogue,City,City,LIBRARIAN_SIMPLE_2_TALK,LIBRARIAN_SIMPLE_2_TALK,"Weaver-thing! Does she hope to spy upon our treasured records?
+Within our vast store, always more there is to know, the old methods of prayer, to this land, to its rulers, and to the strength at its heart.",medium,True,34.675,5.167,5.0,6.0,16.553,15.853,Initial official version,"织者坏种！她想窥探我们的珍贵典籍？
+在我们的浩瀚典藏中，有古老祷文，有统治之术，还有……核心力量的秘辛。",Public-beta official revision,"编织者你这家伙！你是想窥探我们珍贵的记录吗？
+在我们这浩瀚的宝库里，总有更多待发掘的知识，比如古老的祈祷仪式，对此地、对其统治者、以及对核心力量的献祭之法。",Patch 4 Team Cart Fix version,"编织者坏种！她想窥探我们的珍贵典籍？
+在这浩瀚的典藏里，总有更多可学：古老的祈祷之法，献给这片土地，献给统治者，献给其核心之力。",2,True,LIBRARIAN_SIMPLE
+City_GOURMAND_SERVANT_MOSSSTEW,dialogue,City,City,GOURMAND_SERVANT_MOSSSTEW,GOURMAND_SERVANT_MOSSSTEW,"For our base, we require the gelatinous Mossberry Stew. Its concoction is a druidic art, a jealously guarded secret of the moss-painted caverns deep below us.",medium,True,34.775,5.167,1.0,5.0,15.843,15.843,Initial official version,基底需要苔莓浓汤。配方是沼地德鲁伊的不传之秘。,Public-beta official revision,汤底要用凝胶状的苔藓浆果浓汤。配制方法为德鲁伊秘术，藏在下面苔藓洞穴里的不传之秘。,Patch 4 Team Cart Fix version,基底需要用到胶状的苔莓浓汤。它得用上德鲁伊的一种调制技艺，那可是我们脚下深处被苔藓覆盖的洞穴中严守的不传之秘。,0,False,GOURMAND_SERVANT
+Shellwood_WOOD_WITCH_FLOWER_QUEST_DECLINE,dialogue,Shellwood,Shellwood,WOOD_WITCH_FLOWER_QUEST_DECLINE,WOOD_WITCH_FLOWER_QUEST_DECLINE,"I hear your request, but I must decline. My travels will take me far beyond this wood.
+Decline. No. Decline, not. The time of birth approaches. The first rite must begin.",medium,True,34.4,5.167,1.0,6.0,15.843,15.843,Initial official version,"很遗憾，我有要事在身，没法帮忙。
+拒绝。不可。诞生之时将至。仪式必启。",Public-beta official revision,"我明白你的请求了，但我必须拒绝。我的旅途尚未结束，即将远离这片树林。
+拒绝？不，不要拒绝。诞生的时刻将至。最初的仪式必须开始。",Patch 4 Team Cart Fix version,"我收到了你的请求，但我必须拒绝。我的旅途不会止于这片树林。
+拒绝。不。不可拒绝。诞辰将至。仪式必启。",0,False,WOOD_WITCH
+Belltown_BELLHERMIT_ENSLAVED_2,dialogue,Belltown,Belltown,BELLHERMIT_ENSLAVED_2,BELLHERMIT_ENSLAVED_2,"You want to cut them down? Hff. Yes, you look cruel enough.
+Once the strings are cut, pain will return to them. They will remember fear and longing.
+What a choice you make for them! Such power you grant yourself!",medium,True,34.8,4.333,1.0,6.0,15.837,15.837,Initial official version,"想斩断丝线？嗤，瞧你倒有几分机灵。
+丝线一断，痛苦、恐惧、渴求都将复归。
+你替他们选的好啊！好大的威风！",Public-beta official revision,"你想斩断丝线？哼。你看起来够恨。
+一旦绳线被切断，它们将会重新感到痛苦。它们将会想起恐惧和渴望。
+你这是替他们做了多么残酷的选择！你竟如此放纵自己的力量！",Patch 4 Team Cart Fix version,"你想解救他们？嗤，看你还挺残忍的。
+丝线一断，他们又会痛苦，又会记起恐惧和渴求的滋味。
+你可真替他们选了条好路啊！真是好大的能耐！",0,False,BELLHERMIT_ENSLAVED
+Belltown_SHOP_ITEM_FURNISHING_GRAMAPHONE_DESC,dialogue,Belltown,Belltown,SHOP_ITEM_FURNISHING_GRAMAPHONE_DESC,SHOP_ITEM_FURNISHING_GRAMAPHONE_DESC,"The Citadel crafted some marvellous machines, and this looks to be one of its finest! Apparently sent by some creepy slitherer hidden away up there, for sale only to you!",medium,True,33.825,4.0,5.0,5.0,15.83,15.83,Initial official version,圣堡精工杰作！据说是上头阴森爬行的家伙带来的，这宝贝我只卖给你！,Public-beta official revision,圣堡精造过不少奇妙的机械，这台算是其中的精品！显然是某个藏在上面的猥琐爬行者送来的，只卖给你！,Patch 4 Team Cart Fix version,圣堡曾打造过一些精妙的机械，其中数这件是最最杰出的！据说是某个藏在高处的诡异爬行家伙寄来的，现在只卖给您！,0,False,SHOP_ITEM
+Enclave_CARETAKER_SNARE_ACCEPT_NO_SNARE,dialogue,Enclave,Enclave,CARETAKER_SNARE_ACCEPT_NO_SNARE,CARETAKER_SNARE_ACCEPT_NO_SNARE,"And last, as the base, seek a weapon of Weavers past. Should still be one left, down there in their largest nest, a snare to set a rune’o searing Silk. Our own trap’ll be woven tight about it.",medium,True,33.925,3.667,5.0,5.0,15.803,15.803,Initial official version,"最后是陷阱的基底部分，去找到古织者的工具——陷阱设置器，它可以用来设下灼烧灵丝的符文。
+应该还剩一个，就在织者最大的巢穴里。我们的陷阱将以它为核心进行制作。",Public-beta official revision,最后，寻求昔日编织者的武器作为基础。在它们最大的巢穴深处，应当还有一个在炙热灵丝上刻制符文的陷阱。我们的陷阱将围绕它紧密编织。,Patch 4 Team Cart Fix version,"最后是陷阱的基底部分，去找到古编织者的工具——陷阱设置器，它可以用来设下由灼热灵丝构成的符文。
+应该还剩一个，在编织者最大的巢穴里。我们要把陷阱牢牢编织在它上面。",0,False,CARETAKER_SNARE
+Forge_DOCK_KEY_RECEPTICLE_HINT,dialogue,Forge,Forge,DOCK_KEY_RECEPTICLE_HINT,DOCK_KEY_RECEPTICLE_HINT,"This bell could carry me below, but it will first require a key, and an operator to aid its descent.
+I cannot complete this task alone. Someone upon these docks will have to assist me.",medium,True,33.675,3.333,5.0,6.0,15.787,15.787,Initial official version,"此钟可载我下沉，但需要钥匙开启，还需要操作员协助下潜。
+我自己难以达成此事，需要得到码头上某位清醒者的帮助。",Public-beta official revision,"这潜钟能载我下潜，但得先有钥匙，还要有操作员帮忙下潜。 
+我一个人干不了这活。码头上得有人帮忙。",Patch 4 Team Cart Fix version,"这口潜钟能载我下潜，但首先得有一把钥匙，还需要一名操作员帮忙操控，协助下潜。
+我无法独自完成这项任务。必须有虫在矿坞上协助我才行。",0,False,DOCK_KEY
+Belltown_PINSMITH_UPGRADED_COMPLETE,dialogue,Belltown,Belltown,PINSMITH_UPGRADED_COMPLETE,PINSMITH_UPGRADED_COMPLETE,"That blade! By claw! My finest work by far. Pharloom may ail, but across its morbid dim, your needle will shine bright.",medium,True,33.875,3.667,5.0,5.0,15.783,15.783,Initial official version,瞧这针刃！利爪啊！我毕生的杰作！旅者，纵使纺络病入膏肓，您的针芒也将照亮死寂！,Public-beta official revision,你的针刃！真是让人惊叹！真是我迄今为止最完美的作品。法鲁姆虽病入膏肓，，但穿过阴郁昏沉的角落，你的刺针将璀璨生辉。,Patch 4 Team Cart Fix version,瞧这针刃！利爪在上啊！这是我迄今为止最为杰出的作品！就算纺络被死亡阴霾笼罩，您的针刃依旧会闪耀夺目！,0,False,PINSMITH_UPGRADED
+Belltown_DOCTOR_CLOSED_REPEAT,dialogue,Belltown,Belltown,DOCTOR_CLOSED_REPEAT,DOCTOR_CLOSED_REPEAT,"Shoo I say! Unless you’ve brought a worthy specimen, with something truly nasty inside them, bzzt! Otherwise, leave the great Yarnaby in peace!",medium,True,34.25,4.667,1.0,6.0,15.683,15.683,Initial official version,说了走开！除非带够劲的病患来，壳里长真家伙的！不然别烦本神医！,Public-beta official revision,我说，赶紧走开！除非你带了个像样的病秧子过来，体内还得有真正恶心的东西，滋滋！否则，不要打扰伟大的雅纳比的清净！,Patch 4 Team Cart Fix version,说了走开！除非你带了值得我动手的实验体来，比如壳里长了脏东西的！啧啧！不然别来烦伟大的雅纳碧！,0,False,DOCTOR_CLOSED
+Bonebottom_FUNERAL_1,dialogue,Bonebottom,Bonebottom,FUNERAL_1,FUNERAL_1,"What ritual calls you all together, pilgrim?
+Our brother, this poor wretch in my arms, has walked his last aching step. We gather here to sing him farewell, and to mourn our great loss.",medium,True,34.15,4.833,1.0,6.0,15.677,15.677,Initial official version,"诸位聚集在此举行什么仪式？
+这位兄弟，我怀中的可怜虫，已走完最后一步。我们在此唱别，哀悼逝者。",Public-beta official revision,"朝圣者，是什么仪式将你们聚集在一起？
+我怀中的这位可怜兄弟，刚走完它痛苦旅程的最后一步。我们聚在一起为他送行，哀悼我们的巨大损失。",Patch 4 Team Cart Fix version,"朝圣者们，你们聚在一起，是在举行什么仪式？
+我们的弟兄，也就是我怀中的可怜虫，已经走尽痛苦的旅途。我们在此相聚，是为了给他颂唱挽歌，哀悼逝者。",0,False,FUNERAL_1
+Coral_WORLD_EDGE_ACT3,dialogue,Coral,Coral,WORLD_EDGE_ACT3,WORLD_EDGE_ACT3,"If I chose to head beyond I would abandon Pharloom to a collapse of my making.
+While I live, and still possess the strength to act, I will not allow that end to come to pass.",medium,True,33.325,3.333,5.0,6.0,15.647,15.647,Initial official version,"若我选择逃离，下方王国将因我而崩塌。
+只要力气尚存，我绝不容许这样的结局。",Public-beta official revision,"如果我选择继续向前，法鲁姆就会因我的所作所为而覆灭。
+只要我一息尚存，还有能战斗的力量，就绝不容许这样的结局。",Patch 4 Team Cart Fix version,"若我选择逃离，就是放任王国因我而崩塌。
+只要一息尚存，我便绝不容许这样的结局。",0,False,WORLD_EDGE
+Caravan_TROUPE_MEMBER_SHORT_BREW_FULL,dialogue,Caravan,Caravan,TROUPE_MEMBER_SHORT_BREW_FULL,TROUPE_MEMBER_SHORT_BREW_FULL,"Miss Hornet, your bottle is full of Flea Brew. You know what such means! You must have drink! Har har!
+When you have finish drinking, return and we will fill flask again! I’m is always brewing!",medium,True,33.225,3.5,5.0,6.0,15.64,15.64,Initial official version,"大黄蜂小姐，你身上的药酿还满着呢，得先喝光！
+喝完了就回来找我！我这儿药酿管够！",Public-beta official revision,"大黄蜂小姐，酒瓶满着呢。你懂的——必须喝一杯！哈哈哈！
+喝完记得回来续杯，我这儿永远有酒！",Patch 4 Team Cart Fix version,"大黄蜂小姐，你身上的秘酿还满着呢，懂的吧！你得先喝过才行！哈哈！
+喝过了再回来找我，我会给你补满的！我这儿秘酿管够！",0,False,TROUPE_MEMBER
+Coral_PINSTRESS_FINAL_MEET_RETURN,dialogue,Coral,Coral,PINSTRESS_FINAL_MEET_RETURN,PINSTRESS_FINAL_MEET_RETURN,"Needle bug! With those black quakes, Pharloom’s finale is fast arriving.
+Raise your blade! Let’s see at least one of us end true to our nature!",medium,True,33.375,3.167,5.0,6.0,15.633,15.633,Initial official version,"看这黑色震动，纺络的终局将至了。
+举针吧！至少让我们中的一个死得其所！",Public-beta official revision,"是使针的小虫子！黑灾震动大地，法鲁姆的终局将至。
+亮出你的刺针吧！至少让我们之中的某一位能死得其所！",Patch 4 Team Cart Fix version,"拿针的！在这些漆黑的震动之下，纺络的终局很快就会到来。
+举针吧！至少让我们中的一个能死得像个真正的战士！",0,False,PINSTRESS_FINAL
+UI_RELIC_BONE_RECORD_GREYCOR_DESC,item_tool_ui,UI,UI,RELIC_BONE_RECORD_GREYCOR_DESC,RELIC_BONE_RECORD_GREYCOR_DESC,"Faded parchment containing the last words of a lost pilgrim.
+
+“-ter I die here in the damp dark than join those poor sods, trapped to stumble, aimless and empty, until their limbs fall to dust.”",medium,True,35.175,6.0,1.0,5.0,16.17,16.17,Initial official version,"褪色的羊皮纸，一名惊惶的朝圣者在上面留下了遗言。
+
+“宁死于阴湿之地，不愿做空壳游魂。”",Public-beta official revision,"褪色的羊皮卷，一名已逝的朝圣者在上面留下了遗言。
+
+ “宁死于阴湿之地，不愿做空壳游魂，跌跌撞撞，漫无目的，直至肉身归于尘埃。”",Patch 4 Team Cart Fix version,"褪色的羊皮纸，一名迷失的朝圣者在上面留下了遗言。
+
+“——宁愿死在这阴湿之地，也不要跟那些可怜虫一样，变成漫无目的的空壳，四处游荡，直到肢体腐朽成渣。”",0,False,RELIC_BONE
+Tools_SNARE_DESC,item_tool_ui,Tools,Tools,SNARE_DESC,SNARE_DESC,"Trap-setting tool of the Weavers. Lays a Silk rune that ignites when foes come into contact.
+
+Uses shell canisters and the wielder’s own Silk.",medium,True,33.175,3.667,7.0,5.0,15.803,15.803,Initial official version,"织者布置陷阱的工具，铺设接触触发的灵丝符文。
+
+需消耗甲壳罐与使用者的灵丝。",Public-beta official revision,"编织者用于设置陷阱的工具。可以设下一个灵丝符文，当敌人接触到时，符文就会点燃。
+
+需消耗甲壳罐和使用者自己的灵丝。",Patch 4 Team Cart Fix version,"编织者布置陷阱的工具，铺设接触触发的灵丝符文。
+
+需消耗甲壳储备与使用者的灵丝。",0,False,SNARE_DESC
+Tools_FLEA_CHARM_DESC,item_tool_ui,Tools,Tools,FLEA_CHARM_DESC,FLEA_CHARM_DESC,"Icon of the mythical mother flea, passed down from caravans of old. A symbol of protection and kinship.
+
+Decreases the cost of Silk Skills while health is full.",medium,True,32.475,2.167,7.0,5.0,15.223,15.223,Initial official version,"旅团传承的传说跳蚤之母圣像，象征庇护与亲缘。
+
+生命值全满时降低灵丝技能消耗。",Public-beta official revision,"古老的旅团流传下来的神话中跳蚤之母的标志。象征庇护与亲缘关系。
+
+生命值满格时，可降低灵丝技能的消耗。",Patch 4 Team Cart Fix version,"旅团传承的传说跳蚤之母圣像，象征着庇护与亲缘。
+
+生命值全满时降低灵丝技能的消耗。",0,False,FLEA_CHARM
+Tools_RESERVE_BIND_DESC,item_tool_ui,Tools,Tools,RESERVE_BIND_DESC,RESERVE_BIND_DESC,"Ornate artefact of the Citadel, able to hold a Bind’s worth of Silk. Used when healing is needed and one’s natural resources run low.
+
+The Reserve Bind will be restored when resting at a bench.",medium,True,32.3,1.833,7.0,5.0,15.087,15.087,Initial official version,"圣堡华美遗器，可储存完整收缚的灵丝。可在自然灵丝枯竭时用于治疗。
+
+在长椅休息时自动恢复。",Public-beta official revision,"来自圣堡的精致华美的遗器，可储存足够一次缚丝的灵丝。可在灵丝不足时用于治疗。
+
+在长椅休息时会自动恢复储备缚丝。",Patch 4 Team Cart Fix version,"圣堡的华美遗器，可储存一次缚丝量的灵丝。可在自身灵丝枯竭时用于治疗。
+
+在长椅休息时自动恢复。",0,False,RESERVE_BIND
+UI_INV_DESC_WARD_KEY,item_tool_ui,UI,UI,INV_DESC_WARD_KEY,INV_DESC_WARD_KEY,"Finely crafted metal key, shaped to resemble a surgical implement.
+
+Grants access to the Citadel’s Whiteward.",medium,True,32.275,2.833,5.0,5.0,14.977,14.977,Initial official version,形似外科手术器械的精致钥匙。,Public-beta official revision,"精致金属钥匙，形似外科手术器械。 
+
+可以开启圣堡的白愈厅。",Patch 4 Team Cart Fix version,"形似外科手术器械的精致钥匙。
+
+可开启前往圣堡白愈厅的通路。",0,False,INV_DESC
+UI_RELIC_SEAL_CHIT_ASPID_DESC,item_tool_ui,UI,UI,RELIC_SEAL_CHIT_ASPID_DESC,RELIC_SEAL_CHIT_ASPID_DESC,"Decree of the Citadel, dirty and worn.
+
+“Full Chamber to the kingdom of the White Wyrm. Claim the Weaver, in half part. Last of their line. Sensed strong with Silk.
+
+Resistance anticipated. Quell with rune cage.”",medium,True,32.65,1.667,5.0,5.0,14.893,14.893,Initial official version,"破旧的圣堡诫令。
+
+“全员前往白王沃姆疆域，缉捕半血织者。她是沃姆最后血脉，灵丝力量强大。
+
+预计遭遇抵抗，用符文牢笼镇压。”",Public-beta official revision,"圣堡诫令，污损破旧：
+
+ “全员出发，前往白王沃姆的领地，缉捕半血编织者。她是沃姆最后的血脉。灵丝力量强大。
+
+ 预计将有抵抗。用符文牢笼镇压。”",Patch 4 Team Cart Fix version,"肮脏而破旧的圣堡敕令。
+
+“全员前往白沃姆的疆域，缉捕一半血统的编织者。末裔。感知到强大灵丝力量。
+
+预计遭遇抵抗。以符文牢笼镇压。”",0,False,RELIC_SEAL
+Tools_THIEF_CLAW_DESC,item_tool_ui,Tools,Tools,THIEF_CLAW_DESC,THIEF_CLAW_DESC,"Hooked tool for the forceful retrieval of loot from bugs and husks.
+
+Harpoon into foes to steal rosaries and shell shards, while causing additional damage.",medium,True,32.65,3.0,3.0,5.0,14.86,14.86,Initial official version,"从虫尸强行夺取战利品的钩具。
+
+刺入敌人窃取念珠与甲壳碎片并造成额外伤害。",Public-beta official revision,"强力掠夺工具，可从虫类与躯壳中强行夺取战利品。
+
+用钩爪刺入敌人，窃取念珠与甲壳碎片，并造成额外伤害。",Patch 4 Team Cart Fix version,"用于从虫类与躯壳中强行夺取战利品的带钩工具。
+
+使用飞针索刺入敌人窃取念珠与甲壳碎片，并造成额外伤害。",0,False,THIEF_CLAW
+Tools_MAGGOT_CHARM_DESC,item_tool_ui,Tools,Tools,MAGGOT_CHARM_DESC,MAGGOT_CHARM_DESC,"Fragile band woven of reed and leaf, crafted to repel Muckmaggots.
+
+If broken, the wreath will be repaired while resting at a bench.",medium,True,32.7,2.667,3.0,5.0,14.813,14.813,Initial official version,"芦苇嫩枝编织的驱蛆环。
+
+破损后需在长椅休息时修复。",Public-beta official revision,"由琴羽和叶子编织而成的脆弱带子，专为驱赶泥蛆而制作。 
+
+破损后需在长椅休息时修复。",Patch 4 Team Cart Fix version,"芦苇枝叶编织成的脆弱手环，可以驱逐淤秽蛆。
+
+破损后在长椅休息时修复。",0,False,MAGGOT_CHARM
+Tools_MULTIBIND_DESC,item_tool_ui,Tools,Tools,MULTIBIND_DESC,MULTIBIND_DESC,"Elaborate, etched Weaver spindle, usable only by wielders of Silk.
+
+Extends the act of binding, but increases its healing effect.",medium,True,31.775,1.5,7.0,5.0,14.81,14.81,Initial official version,"刻纹织者纺锤，仅限灵丝使用者操作。
+
+延长缚丝时间但增强治疗效果。",Public-beta official revision,"雕刻精美的编织者纺锤，仅限灵丝使用者操作。
+
+延长缚丝持续时间，同时增强治疗效果。",Patch 4 Team Cart Fix version,"精工蚀刻的编织者纺锤，仅限灵丝使用者操作。
+
+延长缚丝时间，但增强治疗效果。",0,False,MULTIBIND_DESC
+UI_RELIC_WEAVER_RECORD_WEAVE08_DESC,item_tool_ui,UI,UI,RELIC_WEAVER_RECORD_WEAVE08_DESC,RELIC_WEAVER_RECORD_WEAVE08_DESC,"Words of a Weaver from the nest beneath Bone Bottom.
+
+“Hide her deep, the despised child, our shame shown in shell of iron. She is a wish cast vain, divinity mimicked in form too frail.”",medium,True,32.5,1.5,5.0,5.0,14.8,14.8,Initial official version,"一名骸底镇下方巢穴织者的遗言。
+
+“将那受唾弃的孩子深藏，铁壳昭示着我们的耻辱。她是由妄念所造，以脆弱之躯仿效神明。”",Public-beta official revision,"骸底镇巢穴中编织者的遗言：
+
+ “将那受唾弃的孩子深藏，铁壳昭示着我们的耻辱。她是由妄念所造，以脆弱之躯仿效神明。”",Patch 4 Team Cart Fix version,"一位编织者在骸底镇下方巢穴中留下的话语。
+
+“将那受唾弃的孩子深藏，铁壳昭示着我们的耻辱。她是我们虚妄的祈愿，以脆弱之躯仿效神明。”",0,False,RELIC_WEAVER
+Tools_MOSSCREEP_TOOL_2_DESC,item_tool_ui,Tools,Tools,MOSSCREEP_TOOL_2_DESC,MOSSCREEP_TOOL_2_DESC,"Powerful amulet of protection formed from many Mossberries.
+
+As the bearer takes damage, the amulet weeps a green elixir that will form into Silk.",medium,True,31.75,1.0,7.0,5.0,14.7,14.7,Initial official version,"多重苔莓强化的护身符。
+
+持有者受伤时，护符会渗出可转化为灵丝的绿液。",Public-beta official revision,"由大量苔藓浆果强化后的护身符。 
+
+持有者受伤时，此护身符会渗出可转化为灵丝的绿液。",Patch 4 Team Cart Fix version,"由大量苔莓制成的强力护符。
+
+持有者受到伤害时，护符会渗出可以形成灵丝的绿色灵质。",0,False,MOSSCREEP_TOOL
+UI_INV_DESC_SKILL_HARPOON,item_tool_ui,UI,UI,INV_DESC_SKILL_HARPOON,INV_DESC_SKILL_HARPOON,Advanced Weaver talent. Throw the Silk-strung needle like a harpoon and charge towards it.,short,True,32.175,2.333,5.0,4.0,14.687,14.687,Initial official version,高阶织者天赋。掷针为锚，牵引冲刺。,Public-beta official revision,编织者的高阶技能。将灵丝针像鱼叉一样抛出，然后紧随其后冲刺。,Patch 4 Team Cart Fix version,高阶编织者天赋。掷针为锚，牵引冲刺。,0,False,INV_DESC
+UI_INV_DESC_SKILL_THROW,item_tool_ui,UI,UI,INV_DESC_SKILL_THROW,INV_DESC_SKILL_THROW,Deadly Weaver technique. Throw the needle forward with force amplified by coiled Silk.,short,True,32.125,2.333,5.0,4.0,14.667,14.667,Initial official version,致命的织者技艺。用灵丝缠绕织针，向前奋力投掷，拥有令人生畏的穿透力。,Public-beta official revision,编织者的致命技艺。以灵丝穿针，向前奋力掷出。,Patch 4 Team Cart Fix version,致命的编织者技艺。用灵丝缠绕织针，向前奋力投掷，拥有令虫生畏的穿透力。,0,False,INV_DESC
+UI_RELIC_SEAL_CHIT_WARDCORPSE_DESC,item_tool_ui,UI,UI,RELIC_SEAL_CHIT_WARDCORPSE_DESC,RELIC_SEAL_CHIT_WARDCORPSE_DESC,"Surgeon’s orders.
+
+“Devout has succumbed during Silk suture. Refuses to revive. Sin committed. Permit no rites.
+
+Husk marked for cremation. Retrieve dregs.”",medium,True,32.125,1.5,5.0,5.0,14.65,14.65,Initial official version,"医师的焚化令。
+
+“信徒在灵丝缝合过程中死亡，拒绝复苏。罪行已定，禁止任何仪式。
+
+躯壳火化后，回收残渣。”",Public-beta official revision,"医嘱：
+
+ “信徒于灵丝缝合中逝去，拒绝复苏。罪行已定，禁止任何仪式。
+
+ 躯壳火化后，回收残渣。”",Patch 4 Team Cart Fix version,"医师的焚化令。
+
+“信徒在灵丝缝合过程中死亡，拒绝复苏。罪行已定，禁止任何仪式。
+
+躯壳标记为火化，回收残渣。”",0,False,RELIC_SEAL
+UI_RELIC_WEAVER_RECORD_SPRINT_DESC,item_tool_ui,UI,UI,RELIC_WEAVER_RECORD_SPRINT_DESC,RELIC_WEAVER_RECORD_SPRINT_DESC,"Plea of a Weaver from the furthest edge of Pharloom.
+
+“Flee, sisters. Flee until your strength exhausts, so far you may escape at last her silken sight.
+
+To start anew, to sustain, free of web and service eternal.”",medium,True,32.175,1.333,5.0,5.0,14.637,14.637,Initial official version,"一名纺络边陲织者的泣告。
+
+“逃吧，姊妹们，直至力竭，或许可以逃离她的丝眼。
+
+另寻新生，永离罗网与奴役。”",Public-beta official revision,"法鲁姆边境编织者的恳求：
+
+ “逃吧，姐妹们，直至力竭，或许可以逃离她的丝眼。
+
+ 另寻新生，永离丝网与奴役。”",Patch 4 Team Cart Fix version,"一位编织者在纺络边陲留下的泣告。
+
+“逃吧，姊妹们，直至力竭，或许可以逃离她的丝之眼。
+
+另寻新生，远离罗网与永世奴役。”",0,False,RELIC_WEAVER
+Tools_ZAP_IMBUEMENT_DESC,item_tool_ui,Tools,Tools,ZAP_IMBUEMENT_DESC,ZAP_IMBUEMENT_DESC,"Charged organ from a defeated Voltvyrm.
+
+Can be coiled around thread, imbuing Silk Skills with electric charge.",medium,True,31.4,1.167,7.0,5.0,14.593,14.593,Initial official version,"击败伏特维姆获取的带电器官。
+
+可缠绕丝线为灵丝技能附加电荷。",Public-beta official revision,"击败伏特维姆后获得的带电器官。
+
+可以缠绕在灵丝上，为灵丝技能注入电荷。",Patch 4 Team Cart Fix version,"击败伏特维姆获取的带电器官。
+
+可缠绕于丝线上，为灵丝技能附加电荷。",0,False,ZAP_IMBUEMENT
+Tools_SILKSHOT_DESC_ARCHITECT,item_tool_ui,Tools,Tools,SILKSHOT_DESC_ARCHITECT,SILKSHOT_DESC_ARCHITECT,"Ancient weapon of the Weavers, repaired and modified by Twelfth Architect.
+
+Uses shell canisters and the wielder’s own Silk to fire.",medium,True,31.475,1.0,7.0,5.0,14.59,14.59,Initial official version,"建筑师修复改造的织者古兵器。
+
+需消耗甲壳罐与使用者的灵丝发射。",Public-beta official revision,"第十二席建筑师修复改造的编织者古兵器。
+
+需消耗甲壳罐与使用者的灵丝发射。",Patch 4 Team Cart Fix version,"第十二席建筑师修复改造的编织者古兵器。
+
+需消耗甲壳储备与使用者的灵丝发射。",0,False,SILKSHOT_DESC
+Tools_MOSSCREEP_TOOL_1_DESC,item_tool_ui,Tools,Tools,MOSSCREEP_TOOL_1_DESC,MOSSCREEP_TOOL_1_DESC,"Amulet of protection formed from Mossberries.
+
+As the bearer takes damage, the amulet weeps a green elixir that will form into Silk.",medium,True,31.475,0.833,7.0,5.0,14.557,14.557,Initial official version,"苔莓制成的护身符。
+
+持有者受伤时，护符会渗出可转化为灵丝的绿液。",Public-beta official revision,"由苔藓浆果制成的护身符。 
+
+持有者受伤时，此护身符会渗出可转化为灵丝的绿液。",Patch 4 Team Cart Fix version,"由苔莓制成的护符。
+
+持有者受到伤害时，护符会渗出可以形成灵丝的绿色灵质。",0,False,MOSSCREEP_TOOL
+Tools_PINSTRESS_DESC,item_tool_ui,Tools,Tools,PINSTRESS_DESC,PINSTRESS_DESC,"Emblem of the Order of the Pinstress, the old blademasters of Pharloom.
+
+Reduces charge time of Needle Strike.",medium,True,31.25,0.833,7.0,5.0,14.467,14.467,Initial official version,"纺络地区古针匠组织'针姬教团'的徽记。 
+
+缩短蓄力斩的蓄力时间。",Public-beta official revision,"法鲁姆古针匠组织“针姬教团”的徽记。
+
+缩短蓄力斩的蓄力时间。",Patch 4 Team Cart Fix version,"针姬教团的徽记，纺络古老针术大师们的象征。 
+
+缩短蓄力斩的蓄力时间。",0,False,PINSTRESS_DESC
+UI_RELIC_SEAL_CHIT_CITY_MERCHANT_DESC,item_tool_ui,UI,UI,RELIC_SEAL_CHIT_CITY_MERCHANT_DESC,RELIC_SEAL_CHIT_CITY_MERCHANT_DESC,"Last edict of the Conductors.
+
+“And lo, is eternity sustained. By Architect’s claw, we welcome that final form, of dial and rotor, and soul gladly given.
+
+The perfect, unfaltering voice.”",medium,True,32.825,2.167,1.0,5.0,14.463,14.463,Initial official version,"指挥家的终诏。
+
+“看啊，永恒得以延续。
+凭借建筑师之手，我们迎来终极形态——齿轮与转轴，灵魂欣然献上。
+那完美恒久的声音。”",Public-beta official revision,"指挥家最后训诫：
+
+ “看啊，永恒得以延续。借建筑师之爪，迎来齿轮与转子的终极形态，灵魂甘心奉献。
+
+ 那完美恒久的声音。”",Patch 4 Team Cart Fix version,"指挥家最后的谕令。
+
+“看啊，永恒得以延续。
+借由建筑师之手，我们迎来终极形态，由齿轮与转轴打造，再欣然献上灵魂。
+那完美而又恒久的声音。”",0,False,RELIC_SEAL
+Journal_NOTE_SLAB_FLY_SMALL,journal_lore,Journal,Journal,NOTE_SLAB_FLY_SMALL,NOTE_SLAB_FLY_SMALL,Foul creatures birthed into servitude. Their plight elicits no sympathy from me.,short,True,24.625,5.667,3.0,3.5,11.958,11.958,Initial official version,这些可悲的生物从蛹中钻出的瞬间，就被烙上了终生奴役的印记——但它们啃噬死囚腐肉时发出的欢快嗡鸣，实在让人难以怜悯。,Public-beta official revision,这些可悲的生物从蛹中钻出的瞬间，就被烙上了终生奴役的印记——但它们啃噬死囚腐肉时发出的欢快嗡鸣，实在让人难以怜悯。,Patch 4 Team Cart Fix version,生来就从事劳役的恶劣生物。其悲惨境遇引不起我丝毫怜悯。,0,False,NOTE_SLAB
+Journal_NOTE_SWAMP_MOSQUITO_SKINNY,journal_lore,Journal,Journal,NOTE_SWAMP_MOSQUITO_SKINNY,NOTE_SWAMP_MOSQUITO_SKINNY,To subsist on the sickly water in this fetid environment it spits out the most toxic elements. Over generations this former survival technique has turned into an effective hunting tool.,medium,True,24.425,5.5,3.0,3.5,11.845,11.845,Initial official version,过滤毒液的生存机制经代际演化，成为高效的狩猎手段。,Public-beta official revision,过滤毒液的生存机制经代际演化，成为高效的狩猎手段。,Patch 4 Team Cart Fix version,为了在这恶臭环境中依靠污水维生，它会吐出其中最毒的成分。历经数代，这种曾经的求生手段已经演变为了高效的狩猎技术。,0,False,NOTE_SWAMP
+Journal_NOTE_PHANTOM,journal_lore,Journal,Journal,NOTE_PHANTOM,NOTE_PHANTOM,"Though grey with age, their frayed form suggested a being strung from Silk, one who welcomed a decisive end in combat over a slow decline.",medium,True,22.85,3.0,7.0,4.5,11.465,11.465,Initial official version,苍老的躯壳布满灵丝束痕。比起缓慢凋零，它更渴求战死的终局。,Public-beta official revision,苍老的躯壳布满灵丝束痕。比起缓慢凋零，它更渴求战死的终局。,Patch 4 Team Cart Fix version,尽管因岁月而灰败，残破的外形依旧证明了其是灵丝编织的生命。比起缓慢凋零，更渴求战死的终局。,0,False,NOTE_PHANTOM
+Journal_NOTE_SONG_AUTOMATON_01,journal_lore,Journal,Journal,NOTE_SONG_AUTOMATON_01,NOTE_SONG_AUTOMATON_01,"Its core is filled with fine mechanisms, but that alone should not produce such a convincing mimic of life. Silk must also be used to animate this artifice, though exactly how I am not sure.",medium,True,23.6,2.167,7.0,3.5,11.448,11.448,Initial official version,当灵丝顺着齿轮缝隙游走时，这台机器竟发出类似心跳的震颤——圣堡匠人究竟将多少生命奥秘编织进了这些钢铁躯壳？,Public-beta official revision,当灵丝顺着齿轮缝隙游走时，这台机器竟发出类似心跳的震颤——圣堡匠人究竟将多少生命奥秘编织进了这些钢铁躯壳？,Patch 4 Team Cart Fix version,它的核心装满了精密的机械部件，但光凭这一点应该还不足以做到如此栩栩如生。虽然我不确定原理究竟是什么，但驱动这样的造物一定用到了灵丝。,0,False,NOTE_SONG
+Journal_NOTE_SLAB_PRISONER_FLY_NEW,journal_lore,Journal,Journal,NOTE_SLAB_PRISONER_FLY_NEW,NOTE_SLAB_PRISONER_FLY_NEW,"Their thick shroud leaves them sightless, yet it seems to matter little. They have no care for their own safety, wishing only to charge at those they sense as sinful.",medium,True,24.0,4.167,3.0,3.5,11.408,11.408,Initial official version,厚罩使其目不能视，却仍疯狂冲击周围感知到的“罪人”。,Public-beta official revision,厚罩使其目不能视，却仍疯狂冲击周围感知到的“罪人”。,Patch 4 Team Cart Fix version,厚重的裹布夺去了它们的视觉，但这似乎无关紧要。它们只知扑向那些自己感知为有罪的虫子，完全不顾自身安危。,0,False,NOTE_SLAB
+Journal_NOTE_SWAMP_DRIFTER,journal_lore,Journal,Journal,NOTE_SWAMP_DRIFTER,NOTE_SWAMP_DRIFTER,"This one is pretty, but not as soft as first it seems. The plant it mimics is flaked and coarse, and the bug’s coat shares similar texture.",medium,True,23.525,4.333,3.0,3.5,11.252,11.252,Initial official version,看似柔美实则粗粝，与其拟态植物的质感完全一致。,Public-beta official revision,看似柔美实则粗粝，与其拟态植物的质感完全一致。,Patch 4 Team Cart Fix version,看起来挺漂亮，但表面没看起来那样柔软。这种虫子的外壳质感粗糙呈片状，与它模仿的植物表面相似。,0,False,NOTE_SWAMP
+Journal_NOTE_UNDERSTORE_POKER,journal_lore,Journal,Journal,NOTE_UNDERSTORE_POKER,NOTE_UNDERSTORE_POKER,"They toiled incessantly for the Citadel, their shells bent and greyed, and now the kingdom’s curse means not even death can relieve them.",medium,True,22.6,2.333,7.0,4.5,11.232,11.232,Initial official version,他们为圣堡鞠躬尽瘁直至甲壳弯折灰败，如今连死亡都无法终结这诅咒。,Public-beta official revision,他们为圣堡鞠躬尽瘁直至甲壳弯折灰败，如今连死亡都无法终结这诅咒。,Patch 4 Team Cart Fix version,它们为圣堡不知疲倦地劳作，身体也驼背发灰，而如今王国的诅咒意味着连死亡都无法让它们解脱。,0,False,NOTE_UNDERSTORE
+Journal_NOTE_SLAB_FLY_LARGE,journal_lore,Journal,Journal,NOTE_SLAB_FLY_LARGE,NOTE_SLAB_FLY_LARGE,Disgusting both in manner and stench. I feel no remorse to see them felled.,short,True,23.925,3.833,2.0,3.5,11.162,11.162,Initial official version,它们浑身散发着腐殖质恶臭，甲壳缝隙间还粘着陈年血痂。每当那对复眼在牢狱阴影中亮起，连最凶悍的囚徒都会瑟缩墙角。,Public-beta official revision,它们浑身散发着腐殖质恶臭，甲壳缝隙间还粘着陈年血痂。每当那对复眼在牢狱阴影中亮起，连最凶悍的囚徒都会瑟缩墙角。,Patch 4 Team Cart Fix version,无论是举止还是体臭都恶心至极。看它们毙命，我的内心也不会有丝毫悔意。,0,False,NOTE_SLAB
+Journal_NOTE_TROBBIO,journal_lore,Journal,Journal,NOTE_TROBBIO,NOTE_TROBBIO,"His desire to see Pharloom saved may have been well intentioned, but he seemed quite happy for others to die upon the stage in pursuit of his goal.",medium,True,22.4,2.5,7.0,3.5,11.035,11.035,Initial official version,他拯救纺络的愿望或许出于善意，但为实现目标似乎乐于目睹他人在舞台上殒命。,Public-beta official revision,他拯救纺络的愿望或许出于善意，但为实现目标似乎乐于目睹他人在舞台上殒命。,Patch 4 Team Cart Fix version,他想见证纺络得救的愿望或许是出于善意，但在为了实现目标而让其他虫子命丧舞台时，他似乎也乐在其中。,0,False,NOTE_TROBBIO
+Journal_NOTE_BONE_HUNTER_CHIEF,journal_lore,Journal,Journal,NOTE_BONE_HUNTER_CHIEF,NOTE_BONE_HUNTER_CHIEF,"Their skill once saw them chosen, and I can plainly see why. They would have lived and trained only for this duty.",medium,True,23.25,3.5,3.0,3.5,10.975,10.975,Initial official version,它们的高超技艺我已亲身体会，必然是终生磨练只为履行职责。,Public-beta official revision,它们的高超技艺我已亲身体会，必然是终生磨练只为履行职责。,Patch 4 Team Cart Fix version,它们因自身技艺出众而被选为护卫，我已经领教了它们的厉害。恐怕它们此生只为履行这份职责而生存训练。,0,False,NOTE_BONE
+Inspect_TUBE_HUB_NOTICE,quest_interaction,Inspect,Inspect,TUBE_HUB_NOTICE,TUBE_HUB_NOTICE,"Due to unacceptably high injury and unsanctioned deaths, Ventrica travel shall henceforth be denied to all.
+ For Pharloom eternal, a bug who serves must never die.",medium,True,33.275,2.667,5.0,5.5,15.418,15.418,Initial official version,"鉴于伤亡过甚并且非授命死亡，即日起禁止所有虫民使用圣脉枢管。
+永恒纺络需要活着的仆从。",Public-beta official revision,"由于无法接受过高的受伤概率与死亡事件，即日起禁止所有虫民搭乘圣脉枢管。
+若想法鲁姆永久存续，效忠的虫民绝不可死去。",Patch 4 Team Cart Fix version,"鉴于伤亡过甚且死亡未经授权，即日起禁止所有虫民使用圣脉枢管。
+为纺络之永恒，仆从不得擅自死亡。",0,False,TUBE_HUB
+Inspect_BILEHAVEN_PLAQUE,quest_interaction,Inspect,Inspect,BILEHAVEN_PLAQUE,BILEHAVEN_PLAQUE,"Hate for their light. Hate for their pins. For their waste poured thick and endless.
+Fill your hearts with hate, for power has now been claimed, and with it we shall punish.",medium,True,33.5,4.167,1.0,5.5,15.208,15.208,Initial official version,"憎其光辉，恨其刺针。怒其秽流无尽
+以恨意填膺，因权柄已夺，吾等将施以惩戒。",Public-beta official revision,"畏惧它们的光辉，憎恨它们的利针。只因它们的污秽无穷无尽。
+令心中充满仇恨，因力量已被夺取，并由我等施以惩戒。",Patch 4 Team Cart Fix version,"怨恨他们的光辉，怨恨他们的尖针。怨恨他们的污秽倾泻而下，无止无休。
+恨意填满心房，伟力已然夺取，吾等将施以惩戒。",0,False,BILEHAVEN_PLAQUE
+Inspect_TROBBIO_SIGN,quest_interaction,Inspect,Inspect,TROBBIO_SIGN,TROBBIO_SIGN,"Great bugs! You who weep as your kingdom fades,
+join me upon the Stage.
+ Together, we shall enflame the passion of Pharloom!",medium,True,32.4,2.5,5.0,5.5,15.035,15.035,Initial official version,"伟大的虫民！为王国衰颓而泣者。
+请至剧台与我相会。
+共燃纺络之激情！",Public-beta official revision,"伟大的虫民们！因王国消逝而哭泣的子民啊，
+请登上剧台，与我共演。
+我们一同点燃法鲁姆的激情！",Patch 4 Team Cart Fix version,"伟大的虫民！为王国衰颓而泣者，
+请至剧台与我相会。
+共燃纺络之激情！",0,False,TROBBIO_SIGN
+Lore_MARROW_START_SIGN,quest_interaction,Lore,Lore,MARROW_START_SIGN,MARROW_START_SIGN,"Pilgrim
+You are blessed to walk the foundations of Pharloom.
+Humble yourself before the shells of those who gave their lives to hold our kingdom’s weight.",medium,True,32.075,1.5,7.0,5.5,15.005,15.005,Initial official version,"朝圣者
+行走于纺络根基是你的殊荣。
+在这些为王国献出生命者的躯壳前，应保持谦卑。",Public-beta official revision,"朝圣者
+行走于法鲁姆的根基，此为祝圣赐福。
+它们是为承载王国之重而献出生命的躯壳，应保持谦卑。",Patch 4 Team Cart Fix version,"朝圣者
+行走于纺络的地基是你的殊荣。
+在为王国献出生命者的躯壳前，应保持谦卑。",0,False,MARROW_START
+Inspect_SHAMAN_STONE_CHAPEL,quest_interaction,Inspect,Inspect,SHAMAN_STONE_CHAPEL,SHAMAN_STONE_CHAPEL,"Anguished Aura
+Eight masks hard, swirled soul enraged.
+Twelve aknids flat, all juices strained.
+Six pilgrims living, hung long to drain.",medium,True,33.425,3.167,1.0,5.5,14.978,14.978,Initial official version,"苦痛灵氛
+八具硬质旋魂怒面。
+十二只阿克尼，榨尽汁液。
+六名活祭朝圣者，悬吊沥干。",Public-beta official revision,"苦痛灵氛
+八张坚硬的面具，令灵魂翻涌暴怒。
+十二只扁平的阿克尼，过滤出所有的汁液。
+六名活体朝圣者，长时间悬吊沥干。",Patch 4 Team Cart Fix version,"苦痛灵氛
+八副质地坚硬的面具，激怒旋绕的灵魂。
+十二只压扁的阿克尼，榨干全部的汁液。
+六名鲜活的朝圣者，悬挂直至沥干。",0,False,SHAMAN_STONE
+Inspect_CRADLE_CAGE_01,quest_interaction,Inspect,Inspect,CRADLE_CAGE_01,CRADLE_CAGE_01,"Weaver, in eighth part, last of their line, frail with age.
+Tracked and taken in Sandsea Waste.
+Seven Choristors, nine Envoys lost to task.",medium,True,32.425,2.0,5.0,5.5,14.945,14.945,Initial official version,"第八代织者，末裔，年迈体衰。
+于沙海荒原追捕擒获。
+折损七名圣咏使徒，九名特使。",Public-beta official revision,"八分之一编织者血脉，属末裔，年老体衰。
+在沙海荒地被盯上然后抓住了。
+折损七名圣咏使徒，九名圣咏特使。",Patch 4 Team Cart Fix version,"八分之一血统的编织者，末裔，年迈体衰。
+于沙海荒原追捕擒获。
+折损七名圣咏使徒，九名特使。",0,False,CRADLE_CAGE
+Inspect_PINSTRESS_SUMMONS,quest_interaction,Inspect,Inspect,PINSTRESS_SUMMONS,PINSTRESS_SUMMONS,"I have departed to scale Pharloom’s frigid mount. If any bug exists brave enough to match my pin’s fatal resolve, then climb and face me upon its stormward side.
+- Pinstress",medium,True,32.475,1.667,5.0,5.5,14.898,14.898,Initial official version,"我将攀登纺络寒峰。若有虫愿意成全遗志，持针之决意者，请至风暴面峰顶相会。
+——针姬",Public-beta official revision,"我已出发攀登法鲁姆的寒冷高峰。若有虫子敢与我针之决死之志相抗，登上风暴之巅，来与我一战。
+——针姬",Patch 4 Team Cart Fix version,"我已启程去攀登纺络的寒峰。若有勇者敢与我刺针的决意一较高下，那就登顶于风暴中面对我吧。
+——针姬",0,False,PINSTRESS_SUMMONS
+Inspect_CORAL_JUDGE_STORE,quest_interaction,Inspect,Inspect,CORAL_JUDGE_STORE,CORAL_JUDGE_STORE,"Bug born of Pharloom. You have been chosen.
+ May our Citadel’s holy gilding harden your soft shell.
+Stand eternal as our arbiter, that no bug bearing sin shall ever step within our sacred halls.",medium,True,32.275,1.667,5.0,5.5,14.818,14.818,Initial official version,"纺络的虫民，你们已被选中，
+愿圣堡的鎏金淬硬你们的软壳。
+作为审判官永远伫立，使罪孽之徒永不得踏入圣殿。",Public-beta official revision,"生于法鲁姆的虫民啊，你们已被选中。
+愿圣堡的神圣鎏金淬硬你们的软壳。
+作为裁判官在此永世镇守，使罪孽之徒永不得踏入圣殿。",Patch 4 Team Cart Fix version,"生于纺络的虫子们，你们已被选中，
+愿圣堡的神辉淬硬你们的软壳。
+作为裁决者永远伫立，使罪孽之徒永不得踏入圣殿。",0,False,CORAL_JUDGE
+Inspect_JUDGE_NURSERY,quest_interaction,Inspect,Inspect,JUDGE_NURSERY,JUDGE_NURSERY,"Bug born of Pharloom. You have been chosen.
+ May our Citadel’s holy gilding harden your soft shell.
+Stand eternal as our arbiter, that no bug bearing sin shall step within our sacred halls.",medium,True,32.25,1.667,5.0,5.5,14.808,14.808,Initial official version,"纺络的虫民，你们已被选中，
+愿圣堡的鎏金淬硬你们的软壳。
+作为审判官永远伫立，使罪孽之徒永不得踏入圣殿。",Public-beta official revision,"生于法鲁姆的虫民啊，你们已被选中。
+愿圣堡的神圣鎏金淬硬你们的软壳。
+作为裁判官在此永世镇守，使罪孽之徒永不得踏入圣殿。",Patch 4 Team Cart Fix version,"生于纺络的虫子们，你们已被选中，
+愿圣堡的鎏金淬硬你们的软壳。
+作为裁决者永远伫立，使罪孽之徒永不得踏入圣殿。",0,False,JUDGE_NURSERY
+Inspect_SHAMAN_STORE_ROOM,quest_interaction,Inspect,Inspect,SHAMAN_STORE_ROOM,SHAMAN_STORE_ROOM,"Flickering Flame
+Five masks swirled soul, brought and broiled.
+Four stones rage-baked, crushed powder coarse.
+Three shells fresh from pilgrims fallen, to contain and age.",medium,True,33.2,2.667,1.0,5.5,14.788,14.788,Initial official version,"摇曳焰方
+五具旋魂面甲，炙烤研磨。
+四枚怒火焙石，碾作粗粉。
+三副朝圣鲜壳，用以封存陈化。",Public-beta official revision,"闪烁光焰
+五张翻涌着灵魂的面具，以烈焰炙烤。
+四块经怒火烘烤的岩石，碾磨成粗粉。
+三具已故朝圣者的新鲜外壳，封存并陈化。",Patch 4 Team Cart Fix version,"摇曳火焰
+五具旋绕灵魂的面具，带来炙烤。
+四颗怒焰烘烤过的石头，碾成粗粉。
+三副新死朝圣者的躯壳，封存陈化。",0,False,SHAMAN_STORE
+Inspect_CRADLE_CAGE_02,quest_interaction,Inspect,Inspect,CRADLE_CAGE_02,CRADLE_CAGE_02,"Weaver, in eighth part, last of their line, mortally wounded.
+Tracked and taken in the Blackbarrens.
+Four Choristors, one Reed lost to task.",medium,True,32.05,1.5,5.0,5.5,14.695,14.695,Initial official version,"第八代织者，末裔，重伤濒死。
+于黑荒原追捕擒获。
+折损四名圣咏者，一名战士。",Public-beta official revision,"八分之一编织者血脉，属末裔，重伤而死。
+于黑色荒漠追捕擒获。
+折损四名圣咏使徒，一名琴羽战士。",Patch 4 Team Cart Fix version,"八分之一血统的编织者，末裔，重伤濒死。
+于黑荒原追捕擒获。
+折损四名圣咏使徒，一名战士。",0,False,CRADLE_CAGE
+Inspect_GREY_LORE,quest_interaction,Inspect,Inspect,GREY_LORE,GREY_LORE,"Litany of the Worker
+May we catch the dregs and never tire,
+May we clean the dregs and never hunger,
+May we spool the dregs and never falter.",medium,True,32.675,3.0,1.0,5.5,14.645,14.645,Initial official version,"劳工祷词
+愿我们滤渣不倦。
+愿我们清秽不饥。
+愿我们纺线不怠。",Public-beta official revision,"劳工祷词
+愿我们滤尽残渣，永不疲惫，
+愿我们淘净污浊，永不憔悴，
+愿我们缠紧余烬，永不后退。",Patch 4 Team Cart Fix version,"劳工祷词
+过滤残渣，愿我们不知疲惫，
+清理残渣，愿我们不感饥饿，
+卷绕残渣，愿我们不觉动摇。",0,False,GREY_LORE
+Inspect_CRADLE_CAGE_03,quest_interaction,Inspect,Inspect,CRADLE_CAGE_03,CRADLE_CAGE_03,"Weaver, in quarter part, last of their line, staked to service.
+Tracked and taken beneath the City of Steel.
+Eight Choristors, twelve Envoys lost to task.",medium,True,31.85,1.333,5.0,5.5,14.582,14.582,Initial official version,"第四代织者，末裔，强制服役。
+于钢铁之城地下追捕擒获。
+折损八名圣咏使徒，十二名特使。",Public-beta official revision,"四分之一编织者血脉，属末裔，押送服役。
+于钢铁之城地下追捕擒获。
+折损八名圣咏使徒，十二名圣咏特使。",Patch 4 Team Cart Fix version,"四分之一血统的编织者，末裔，强制服役。
+于钢铁之城地下追捕擒获。
+折损八名圣咏使徒，十二名特使。",0,False,CRADLE_CAGE
+Lore_CORAL_CRUST_TAB_2,quest_interaction,Lore,Lore,CORAL_CRUST_TAB_2,CORAL_CRUST_TAB_2,"At water’s source,
+And coral’s heart,
+Our lord born last to rule.",short,True,30.875,0.5,2.0,5.5,13.575,13.575,Initial official version,"水源尽头，
+珊瑚心核，
+末生之主将临。",Public-beta official revision,"水源之地，
+珊瑚核心，
+最后的君王降生。",Patch 4 Team Cart Fix version,"水之源头，
+珊瑚心核，
+吾等末代君王将临。",0,False,CORAL_CRUST
+Shop_THUNTER_ITEM_PEAKLANDS,quest_interaction,Shop,Shop,THUNTER_ITEM_PEAKLANDS,THUNTER_ITEM_PEAKLANDS,Mount Fay,micro,True,30.25,0.167,0.0,4.5,12.808,12.808,Initial official version,费耶山,Public-beta official revision,菲灵雪山,Patch 4 Team Cart Fix version,雪灵山,0,False,THUNTER_ITEM
+Lore_RED_MEMORY_ROOT3,quest_interaction,Lore,Lore,RED_MEMORY_ROOT3,RED_MEMORY_ROOT3,"Witness, the first light. The only means we possess to resist that void with which our family is forever linked.
+Reach forth, child grown strong. Wrest it from this rememberance. Burn yourself free from our sad fate...",medium,True,32.45,1.0,7.0,5.5,15.055,12.605,Initial official version,"来吧，见证这道最初的光芒。这是我们抵御虚空的唯一手段。而那虚空，却与我们的族群永世相连。
+伸出手来，我的孩子，你已通过历练变得强大。在这忆境中夺取那光芒，焚尽我们悲惨宿命的枷锁……",Public-beta official revision,"来吧，见证这初道光芒。这是我们抵御虚空的唯一手段。而那虚空，却与我们的族群永世相连。
+孩子啊，你已足够强大，向它伸出手吧。在这忆境中夺取那光芒，焚尽我们悲惨宿命的枷锁……",Patch 4 Team Cart Fix version,"来吧，见证这道最初的光芒。面对与我们家族永世相连的虚空，这是抵御它的唯一方法。
+伸出手来，我的孩子，你已通过历练变得强大。从忆境中夺取那光芒，从我们的悲惨命运中挣脱出来……",7,True,RED_MEMORY
+Quests_QUEST_FINEPINS_DESC_WALL,quest_interaction,Quests,Quests,QUEST_FINEPINS_DESC_WALL,QUEST_FINEPINS_DESC_WALL,"Our settlement sits defenceless! No more! When the worst comes we must stand ready. Bring us pins of the choirbugs, those blades still sharp and strong.",medium,True,25.325,5.833,3.0,4.5,12.422,12.422,Initial official version,我们的聚落需要防卫！带来机枢咏者的锋利尖钉。,Public-beta official revision,我们的聚落需要防卫！带来机枢咏者的锋利尖钉。,Patch 4 Team Cart Fix version,我们的聚落毫无防备！不能再这样下去了！当最坏的情况来临时，我们必须做好准备。给我们带来圣咏虫的刺针，那些针刃依然锋利强韧。,0,False,QUEST_FINEPINS
+Lore_MR_MUSH_TAB_TALK,quest_interaction,Lore,Lore,MR_MUSH_TAB_TALK,MR_MUSH_TAB_TALK,"So, the Herald visits this land too...
+If he is here, now, then great change or a savage end is inevitable. He would care to see nothing else...",medium,True,32.875,2.667,3.0,5.5,14.958,12.158,Initial official version,"使者竟也踏足此地……
+若他在此现身，巨变或浩劫将无可避免。除此之外，他目空一切……",Public-beta official revision,"使者竟也踏足此地……
+若他在此现身，巨变或浩劫恐怕在所难免。他只在意这一切将如何终结……",Patch 4 Team Cart Fix version,"使者竟然也踏足此地……
+如果他在此现身，那么伟大的变革或巨大的浩劫将不可避免。他对除此之外的一切都毫不关心……",14,True,MR_MUSH
+Lore_RED_MEMORY_WEAVERS,quest_interaction,Lore,Lore,RED_MEMORY_WEAVERS,RED_MEMORY_WEAVERS,"...Show us your craft, child...
+...Show it splendid, as only we can teach...
+...Prove yourself more Weaver than Wyrm...",medium,True,30.925,0.167,7.0,5.5,14.278,11.478,Initial official version,"……展现你的技艺，孩子……
+……展现那唯有我等能传授的绝技……
+……证明自己更像织者，而非沃姆……",Public-beta official revision,"……展现你的技艺，孩子……
+……展现唯有我等能传授的绝技……
+……证明自己更像编织者，而非沃姆……",Patch 4 Team Cart Fix version,"……展现你的技艺，孩子……
+……展现那唯有我等能传授的绝技……
+……证明自己更像编织者，而非沃姆……",42,True,RED_MEMORY
+Lore_SILK_HEART_MEMORY_LACE_FINAL,quest_interaction,Lore,Lore,SILK_HEART_MEMORY_LACE_FINAL,SILK_HEART_MEMORY_LACE_FINAL,...From our Silk... A child born loyal...,micro,True,31.0,1.167,6.0,4.5,14.208,11.408,Initial official version,……以吾灵丝……诞育忠嗣……,Public-beta official revision,……以我们的灵丝……诞育忠诚的子嗣……,Patch 4 Team Cart Fix version,……源自吾等灵丝……生而忠诚之子……,21,True,SILK_HEART

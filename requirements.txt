@@ -1,0 +1,9 @@
+beautifulsoup4>=4.12
+chromadb>=0.5
+langchain-core>=0.3
+langgraph>=0.2
+pandas>=2.2
+requests>=2.31
+sentence-transformers>=3.0
+typing-extensions>=4.10
+UnityPy>=1.10

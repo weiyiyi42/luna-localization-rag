@@ -1,0 +1,6 @@
+﻿run,use_retrieval,embedding,threshold,rows,mean_overall,V1_mean,V2_mean,V3_mean,deep_audit,errors,parse_errors
+norag_deepseek_t045,False,hash,0.45,300,4.49,4.292,4.624,4.553,24,0,0
+deepseek_full,,hash,,300,4.629,4.48,4.72,4.687,4,0,0
+bge_m3_rag_t045,True,bge-m3,0.45,300,4.589,4.429,4.699,4.641,5,0,1
+bge_m3_rag_t025_retry,True,bge-m3,0.25,300,4.594,4.44,4.707,4.634,5,0,1
+bge_m3_rag_t065,True,bge-m3,0.65,300,4.59,4.431,4.7,4.637,6,0,0

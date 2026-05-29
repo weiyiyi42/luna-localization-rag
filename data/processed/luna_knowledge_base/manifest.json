@@ -1,0 +1,22 @@
+{
+  "built_at": "2026-05-12T08:59:19.370395+00:00",
+  "inputs": {
+    "wiki_jsonl": "data/raw/silksong_wiki/pages.jsonl",
+    "versions_dir": "data/processed/silksong_versions"
+  },
+  "outputs": {
+    "evidence": "data/processed/luna_knowledge_base/evidence.jsonl",
+    "terminology": "data/processed/luna_knowledge_base/terminology.jsonl",
+    "report": "data/processed/luna_knowledge_base/processing_report.md"
+  },
+  "stats": {
+    "wiki_sections_dropped_noisy": 2,
+    "wiki_pages_dropped_not_silksong": 2,
+    "wiki_sections_dropped_short": 5,
+    "game_rows_raw": 5857,
+    "game_rows_after_dedup": 1968,
+    "game_rows_deduplicated": 3889,
+    "evidence_rows": 1997,
+    "terminology_rows": 1181
+  }
+}
